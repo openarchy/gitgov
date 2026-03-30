@@ -25,13 +25,13 @@ Corregir es integrar. La autoridad es revisión por pares.**
 ## Estructura del repositorio
 
 ```
-docs/
-  pt/          # Português — completo
-  en/          # English — translation in progress
-  es/          # Español — traducción en curso
-mkdocs.yml     # Configuración del sitio
-.github/       # GitHub Actions (despliegue automático)
-.forgejo/      # Forgejo Actions (despliegue en Codeberg)
+articles/
+  pt-BR/          # Português — Artigos Originais.  OBS: já finalizados.
+  en-US/          # English — translation in progress.
+  es-419/         # Castellano / Español — traducción en curso.
+mkdocs.yml        # Configuración del sitio
+.github/          # GitHub Actions (despliegue automático)
+.forgejo/         # Forgejo Actions (despliegue en Codeberg)
 ```
 
 ## Cómo contribuir

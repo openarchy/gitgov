@@ -25,13 +25,13 @@ registering. Correcting is merging. Authority is peer review.**
 ## Repository structure
 
 ```
-docs/
-  pt/          # Português — complete
-  en/          # English — translation in progress
-  es/          # Español — traducción en curso
-mkdocs.yml     # Site configuration
-.github/       # GitHub Actions (automatic deployment)
-.forgejo/      # Forgejo Actions (Codeberg deployment)
+articles/
+  pt-BR/          # Português — Artigos Originais.  OBS: já finalizados.
+  en-US/          # English — translation in progress.
+  es-419/         # Castellano / Español — traducción en curso.
+mkdocs.yml        # Site configuration
+.github/          # GitHub Actions (automatic deployment)
+.forgejo/         # Forgejo Actions (Codeberg deployment)
 ```
 
 ## How to contribute

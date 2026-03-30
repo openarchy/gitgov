@@ -25,13 +25,13 @@ Autoridade é revisão por pares.**
 ## Estrutura do repositório
 
 ```
-docs/
-  pt/          # Português — completo
-  en/          # English — translation in progress
-  es/          # Español — traducción en curso
-mkdocs.yml     # Configuração do site
-.github/       # GitHub Actions (deploy automático)
-.forgejo/      # Forgejo Actions (deploy no Codeberg)
+articles/
+  pt-BR/          # Português — Artigos Originais.  OBS: já finalizados.
+  en-US/          # English — translation in progress.
+  es-419/         # Castellano / Español — traducción en curso.
+mkdocs.yml        # Configuração do site
+.github/          # GitHub Actions (deploy automático)
+.forgejo/         # Forgejo Actions (deploy no Codeberg)
 ```
 
 ## Como contribuir
