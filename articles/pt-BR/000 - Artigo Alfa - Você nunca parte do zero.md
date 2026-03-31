@@ -10,7 +10,13 @@ E o método começa entendendo isso: você nunca parte do zero.
 
 ### **1\. Como usar o que você já sabe para aprender qualquer coisa mais rápido**
 
-Este é o Artigo Alfa. Não é o primeiro da série que vou publicar, é o que vem antes do primeiro. A série “Governança como Versionamento” começa de fato no Artigo Zero, a partir de 7 de abril de 2026, quando o Git completa 21 anos. O artigo Alfa existe porque qualquer argumento honesto mostra o método antes de aplicá-lo. O que você vai ler aqui é o fundamento de tudo que vem depois: a ideia de que estruturas se repetem entre campos diferentes, e que enxergar isso muda a velocidade com que você aprende qualquer coisa. A série inteira depende desse reconhecimento.
+Este é o Artigo Alfa. Não é o primeiro da série que vou publicar, é o que vem antes do primeiro.  
+
+ A série “Governança como Versionamento” começa de fato no Artigo Zero, a partir de 7 de abril de 2026, quando o Git completa 21 anos.   
+ 
+ O artigo Alfa existe porque qualquer argumento honesto mostra o método antes de aplicá-lo.   
+ 
+ O que você vai ler aqui é o fundamento de tudo que vem depois: a ideia de que estruturas se repetem entre campos diferentes, e que enxergar isso muda a velocidade com que você aprende qualquer coisa. A série inteira depende desse reconhecimento.
 
 * * *
 
