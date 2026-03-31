@@ -200,7 +200,7 @@ Vinte e um anos depois, Git está em quase todo lugar onde existe software. Mais
 
 Uma frase antes da história: Git é um sistema que registra cada mudança feita em um arquivo, guarda quem fez, quando fez e por que fez, e permite voltar atrás a qualquer momento. Também permite que várias pessoas trabalhem ao mesmo tempo sem pisar no trabalho uma da outra.
 
-Parece técnico assim. Com uma foto na praia, não é?
+Parece técnico assim. Com uma analogia de foto na praia, ficará mais fácil de entender.
 
 * * *
 
