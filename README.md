@@ -8,8 +8,9 @@
 
 **335 anos de pensamento. 29 autores. 21 passos.**
 
-Site: [openarchy.github.io/gitgov](https://openarchy.github.io/gitgov)  
-Espelho: [openarchy.codeberg.page/gitgov](https://openarchy.codeberg.page/gitgov)
+Site: [https://codeberg.org/openarchy/gitgov](https://codeberg.org/openarchy/gitgov)   
+Espelho: [https://github.com/openarchy/gitgov](https://github.com/openarchy/gitgov)
+
 
 ---
 
