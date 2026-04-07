@@ -10,7 +10,7 @@
 
 ## **1\. Democracia é Arquitetura**
 
-Você já participou de uma reunião onde a decisão já estava tomada antes de a reunião começar?
+Você já participou de uma reunião onde a decisão já estava tomada antes da reunião começar?
 
 Ou votou numa assembleia onde, semanas depois, ninguém lembrava ao certo o que tinha sido decidido, nem por quê?
 
