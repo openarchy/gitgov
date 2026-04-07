@@ -70,7 +70,7 @@ Não estamos falando de tecnologia. Estamos falando de um modelo mental: transpa
 
 ## **3\. O que esta série percorre**
 
-A série Governança como Versionamento tem 24 textos. Parte de John Locke em 1689 e chega a Dario Amodei em 2026, passando por Karl Popper, Friedrich Hayek, Claude Shannon, Elinor Ostrom, Nassim Taleb e outros 23 pensadores. Filósofos, economistas, biólogos, matemáticos, especialistas em sistemas. Cada texto é independente, mas cada um passa um fio para o seguinte.
+A série Governança como Versionamento tem 25 textos. Parte de John Locke em 1689 e chega a Dario Amodei em 2026, passando por Karl Popper, Friedrich Hayek, Claude Shannon, Elinor Ostrom, Nassim Taleb e outros 23 pensadores. Filósofos, economistas, biólogos, matemáticos, especialistas em sistemas. Cada texto é independente, mas cada um passa um fio para o seguinte.
 
 O arco da série está detalhado no prefácio e na introdução. O que importa registrar aqui é o ponto de chegada: o posfácio vai até Dario Amodei, presidente da Anthropic, que em 2026 publicou um argumento perturbador. A janela para embutir salvaguardas antes que a concentração de poder torne qualquer correção estrutural impossível está se fechando. Não em décadas. Agora.
 

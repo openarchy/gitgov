@@ -71,7 +71,7 @@ That is why I write this series. Not to give a definitive answer. To translate, 
 
 ## **What this series covers**
 
-The Governance as Versioning series has twenty-four texts. It starts with John Locke in 1689 and reaches Dario Amodei in 2026, passing through Karl Popper, Friedrich Hayek, Claude Shannon, Elinor Ostrom, Nassim Taleb, and twenty-three other thinkers. Philosophers, economists, biologists, mathematicians, systems specialists. Each text is independent, but each one passes a thread to the next.
+The Governance as Versioning series has twenty-five texts. It starts with John Locke in 1689 and reaches Dario Amodei in 2026, passing through Karl Popper, Friedrich Hayek, Claude Shannon, Elinor Ostrom, Nassim Taleb, and twenty-three other thinkers. Philosophers, economists, biologists, mathematicians, systems specialists. Each text is independent, but each one passes a thread to the next.
 
 The arc of the series is detailed in the preface and introduction. What matters to record here is the point of arrival: the postface goes up to Dario Amodei, president of Anthropic, who in 2026 published a disturbing argument. The window for embedding safeguards before the concentration of power makes any structural correction impossible is closing. Not in decades. Now.
 

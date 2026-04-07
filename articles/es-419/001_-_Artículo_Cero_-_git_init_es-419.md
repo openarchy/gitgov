@@ -72,7 +72,7 @@ Por eso escribo esta serie. No para dar una respuesta definitiva. Para traducir,
 
 ## **Lo que esta serie recorre**
 
-La serie Gobernanza como Versionamiento tiene veinticuatro textos. Parte de John Locke en 1689 y llega a Dario Amodei en 2026, pasando por Karl Popper, Friedrich Hayek, Claude Shannon, Elinor Ostrom, Nassim Taleb y otros veintitrés pensadores. Filósofos, economistas, biólogos, matemáticos, especialistas en sistemas. Cada texto es independiente, pero cada uno le pasa un hilo al siguiente.
+La serie Gobernanza como Versionamiento tiene veinticinco textos. Parte de John Locke en 1689 y llega a Dario Amodei en 2026, pasando por Karl Popper, Friedrich Hayek, Claude Shannon, Elinor Ostrom, Nassim Taleb y otros veintitrés pensadores. Filósofos, economistas, biólogos, matemáticos, especialistas en sistemas. Cada texto es independiente, pero cada uno le pasa un hilo al siguiente.
 
 El arco de la serie está detallado en el prefacio y en la introducción. Lo que importa registrar aquí es el punto de llegada: el posfacio llega hasta Dario Amodei, presidente de Anthropic, quien en 2026 publicó un argumento perturbador. La ventana para incorporar salvaguardas antes de que la concentración de poder haga imposible cualquier corrección estructural se está cerrando. No en décadas. Ahora.
 
