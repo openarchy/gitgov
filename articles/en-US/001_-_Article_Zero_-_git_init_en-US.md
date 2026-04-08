@@ -1,6 +1,6 @@
 # **Governance as Versioning**
 
-## **Article Zero : Git Init**
+## **Article Zero: Git Init**
 
 ### **Democracy, Power, and the Memory That Does Not Lie**
 
@@ -11,7 +11,7 @@
 ---
 
 ## **Democracy is Architecture**
-Have you ever attended a meeting where the decision had already been made before the meeting started?
+Have you ever attended a meeting where the decision had already been made before it started?
 
 Or voted in an assembly where, weeks later, nobody could quite remember what had been decided, or why?
 
