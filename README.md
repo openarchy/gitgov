@@ -16,7 +16,7 @@ Espelho: [https://github.com/openarchy/gitgov](https://github.com/openarchy/gitg
 
 ## O que é isto
 
-Uma série de 21 artigos que aplica os conceitos do Git — o sistema de controle
+Uma série de mais de 25 artigos que aplica os conceitos do Git — o sistema de controle
 de versões usado por programadores — como modelo de governança descentralizada
 para qualquer grupo humano, com ou sem tecnologia.
 

@@ -16,7 +16,7 @@ Mirror: [https://github.com/openarchy/gitgov](https://github.com/openarchy/gitgo
 
 ## What is this
 
-A series of 21 articles applying Git concepts — the version control system used
+A series of more than 25 articles applying Git concepts — the version control system used
 by software developers worldwide — as a model for decentralized governance in
 any human group, with or without technology.
 

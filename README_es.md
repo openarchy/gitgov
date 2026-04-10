@@ -15,7 +15,7 @@ Espejo: [https://github.com/openarchy/gitgov](https://github.com/openarchy/gitgo
 
 ## Qué es esto
 
-Una serie de 21 artículos que aplica los conceptos de Git — el sistema de
+Una serie de mas de 25 artículos que aplica los conceptos de Git — el sistema de
 control de versiones usado por programadores en todo el mundo — como modelo
 de gobernanza descentralizada para cualquier grupo humano, con o sin tecnología.
 
