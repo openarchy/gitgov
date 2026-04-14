@@ -44,10 +44,44 @@ mkdocs.yml        # Site configuration
 
 ## How to run locally
 
-```bash
-pip install mkdocs-material mkdocs-static-i18n
-mkdocs serve
-```
+1. Step Zero: Installing the "Engine" (Python)
+You need Python installed first. Think of it as the electricity required to run your digital tools.
+
+Windows:
+
+Download the installer from `python.org`.
+
+CRITICAL: On the first screen, check the box `"Add Python to PATH"`. If you skip this, your computer won't find Python later.
+
+Click `"Install Now."`
+
+Mac:
+
+Open Terminal (Command + Space, type "Terminal").
+
+Type 
+```python3 --version```. 
+If you see a version number, you're set. If not, download the macOS installer from the official site.
+
+Linux (Pop!_OS / Ubuntu):
+
+Open terminal and type: 
+```sudo apt update && sudo apt install python3 python3-pip```
+
+Enter your password (it will remain invisible) and hit Enter.
+
+2. Running the Project Locally
+Once Python is ready, use these commands in your Terminal:
+
+Navigate to the folder: Type cd, add a space, drag the project folder into the terminal, and hit Enter.
+
+Install the tools: Copy and paste the following:
+```pip install mkdocs-material mkdocs-static-i18n```
+
+Start the server: Type:
+```mkdocs serve```
+
+View it: Open your browser and go to: ```http://localhost:8000```.
 
 Open `http://localhost:8000` in your browser.
 

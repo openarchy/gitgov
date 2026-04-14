@@ -44,10 +44,46 @@ mkdocs.yml        # Configuração do site
 
 ## Como rodar localmente
 
-```bash
-pip install mkdocs-material mkdocs-static-i18n
-mkdocs serve
-```
+1. Passo Zero:   
+Instalando o "Motor" (Python)
+Antes de tudo, você precisa do Python. Ele é o motor que faz as ferramentas de site funcionarem.
+
+Windows:
+
+Baixe o instalador em python.org.
+
+CRUCIAL: Na primeira tela, marque a caixa "Add Python to PATH". Se esquecer isso, nada vai funcionar depois.
+
+Clique em "Install Now".
+
+Mac:
+
+Abra o Terminal (aperte Command + Espaço e digite "Terminal").
+
+Digite:
+
+```python3 --version``` 
+Se aparecer um número, você já tem. Caso contrário, baixe o instalador macOS no site oficial.
+
+Linux (Pop!_OS / Ubuntu):
+
+Abra o terminal e digite: 
+```sudo apt update && sudo apt install python3 python3-pip```
+
+Digite sua senha (ela fica invisível enquanto você digita) e dê Enter.
+
+2. Rodando o Projeto Localmente
+Com o Python instalado, siga estes comandos no seu Terminal:
+
+Entre na pasta do projeto: Digite `cd` seguido de um espaço, arraste a pasta do projeto para dentro do terminal e aperte `Enter`.
+
+Instale as ferramentas: Copie e cole o comando abaixo:
+```pip install mkdocs-material mkdocs-static-i18n```
+
+Ligue o site: Digite:
+```mkdocs serve```
+
+Acesse: Abra seu navegador e digite: http://localhost:8000.
 
 Acessa `http://localhost:8000` no browser.
 
