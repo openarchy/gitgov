@@ -54,7 +54,7 @@ Cada artigo funciona de forma independente. Mas cada um cria um fio com o anteri
 | 18 | 1996 | Manuel Castells | The Rise of the Network Society | Quem tem poder numa rede? | Poder está em quem conecta, não em quem manda. Redes também excluem. Abertura de código ≠ abertura de acesso | 1–4 |
 | 19 | 2010 | Kathryn Schulz | Being Wrong | Errar é falha moral? | Erro é condição humana padrão. Qualidade = velocidade de correção. "Errar é commit" é design, não desculpa | 15–17 |
 | 20 | 2012 | Nassim Nicholas Taleb | Antifragile | Sistemas devem resistir ao estresse? | Antifragilidade. Sistemas que ficam mais fortes com o erro. Conflito gera fork, fork melhora o original | 16–19 |
-| 21 | 2010 | Thomas Sowell | Intellectuals and Society | Quem deve governar? | Visão trágica vs visão dos ungidos. Não governam os mais sábios: governam os mais revisáveis | 21 |
+| 21 | 2010 | Thomas Sowell | Intellectuals and Society | Quem deve governar? | Visão trágica vs visão dos ungidos. Não governam melhor os mais sábios: governam melhor os mais revisáveis | 21 |
 
 ---
 

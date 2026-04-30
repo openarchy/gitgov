@@ -222,7 +222,7 @@ Tag ou release: o carimbo de estabilidade. Quando o grupo chega num ponto em que
 
 O sistema inteiro existe para ser melhorado, questionado e superado. Se parar de mudar, morreu. Se virar dogma, deve ser abandonado.
 
-**Não governam os mais sábios: governam os mais revisáveis.** O valor não está em dominar a linguagem do sistema. Está em aceitar ser corrigido.
+**Não governam melhor os mais sábios: governam melhor os mais revisáveis.** O valor não está em dominar a linguagem do sistema. Está em aceitar ser corrigido.
 
 **Este sistema existe para ser superado.** Se virar verdade absoluta, falhou. Toda versão deve ser substituída por outra mais simples, mais clara e mais aberta. Esta regra se aplica a si mesma.
 

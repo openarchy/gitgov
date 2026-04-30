@@ -56,7 +56,7 @@ Each article works on its own. But each one creates a thread with the one before
 | 18 | 1996 | Manuel Castells | The Rise of the Network Society | Who has power in a network? | Power lies with whoever connects, not whoever commands. Networks also exclude. Open code ≠ open access. | 1–4 |
 | 19 | 2010 | Kathryn Schulz | Being Wrong | Is making mistakes a moral failure? | Error is the default human condition. Quality = speed of correction. "Error is commit" is design, not excuse. | 15–17 |
 | 20 | 2012 | Nassim Nicholas Taleb | Antifragile | Should systems resist stress? | Antifragility. Systems that get stronger with error. Conflict generates fork, fork improves the original. | 16–19 |
-| 21 | 2010 | Thomas Sowell | Intellectuals and Society | Who should govern? | Tragic vision vs. the vision of the anointed. It is not the wisest who govern: it is the most revisable. | 21 |
+| 21 | 2010 | Thomas Sowell | Intellectuals and Society | Who should govern? | Tragic vision vs. the vision of the anointed. The wisest do not govern best: those most open to review do. | 21 |
 
 ---
 

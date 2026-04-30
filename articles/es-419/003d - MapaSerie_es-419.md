@@ -56,7 +56,7 @@ Cada artículo funciona de forma independiente. Pero cada uno crea un hilo con e
 | 18 | 1996 | Manuel Castells | La era de la información: La sociedad red | ¿Quién tiene poder en una red? | El poder está en quien conecta, no en quien manda. Las redes también excluyen. Código abierto ≠ acceso abierto. | 1–4 |
 | 19 | 2010 | Kathryn Schulz | Estar equivocado | ¿Equivocarse es una falla moral? | El error es la condición humana estándar. Calidad = velocidad de corrección. "Errar es confirmar (commit)" es diseño, no excusa. | 15–17 |
 | 20 | 2012 | Nassim Nicholas Taleb | Antifrágil | ¿Los sistemas deben resistir el estrés? | Antifragilidad. Sistemas que se fortalecen con el error. El conflicto genera bifurcación (fork), la bifurcación mejora el original. | 16–19 |
-| 21 | 2010 | Thomas Sowell | Intelectuales y sociedad | ¿Quién debe gobernar? | Visión trágica vs. visión de los ungidos. No gobiernan los más sabios: gobiernan los más revisables. | 21 |
+| 21 | 2010 | Thomas Sowell | Intelectuales y sociedad | ¿Quién debe gobernar? | Visión trágica vs. visión de los ungidos. No gobiernan mejor los más sabios: gobiernan mejor los más revisables. | 21 |
 
 ---
 

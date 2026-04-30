@@ -222,7 +222,7 @@ Tag or release: the stability stamp. When the group reaches a point where things
 
 The whole system exists to be improved, questioned, and surpassed. If it stops changing, it has died. If it becomes dogma, it should be abandoned.
 
-**It is not the wisest who govern: it is the most revisable.** The value is not in mastering the language of the system. It is in accepting correction.
+**The wisest do not govern best: those most open to review do.** The value is not in mastering the language of the system. It is in accepting correction.
 
 **This system exists to be surpassed.** If it becomes absolute truth, it has failed. Every version must be replaced by a simpler, clearer, more open one. This rule applies to itself.
 

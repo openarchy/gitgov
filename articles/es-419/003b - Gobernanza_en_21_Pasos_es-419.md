@@ -222,7 +222,7 @@ Etiqueta o versión estable (tag o release): el sello de estabilidad. Cuando el 
 
 El sistema entero existe para ser mejorado, cuestionado y superado. Si deja de cambiar, murió. Si se convierte en dogma, debe ser abandonado.
 
-**No gobiernan los más sabios: gobiernan los más revisables.** El valor no está en dominar el lenguaje del sistema. Está en aceptar ser corregido.
+**No gobiernan mejor los más sabios: gobiernan mejor los más revisables.** El valor no está en dominar el lenguaje del sistema. Está en aceptar ser corregido.
 
 **Este sistema existe para ser superado.** Si se convierte en verdad absoluta, falló. Toda versión debe ser reemplazada por otra más simple, más clara y más abierta. Esta regla se aplica a sí misma.
 
