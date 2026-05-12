@@ -64,7 +64,12 @@ Antes de Mises, a maioria assumia que ordem exige alguém mandando. Depois de Mi
 
 ### **O axioma que ninguém consegue negar.**
 
-Mises construiu sua economia inteira sobre um fundamento: humanos agem. Parece trivial. Não é. Agir significa: (1) estar insatisfeito com algo, (2) imaginar um estado melhor, (3) acreditar que sua ação pode mudar a realidade, (4) escolher entre alternativas, renunciando ao que não escolheu.
+Mises construiu sua economia inteira sobre um fundamento: humanos agem. Parece trivial. Não é. Agir significa:   
+
+(1) estar insatisfeito com algo,  
+(2) imaginar um estado melhor,  
+(3) acreditar que sua ação pode mudar a realidade,  
+(4) escolher entre alternativas, renunciando ao que não escolheu.
 
 Tente negar isso. Negar é uma ação. Você acabou de provar o que tentou refutar. O axioma é irrefutável porque qualquer tentativa de refutação o confirma.
 
