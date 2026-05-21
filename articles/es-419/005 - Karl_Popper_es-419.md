@@ -1,22 +1,24 @@
-# **Karl Popper**
+[![](https://substackcdn.com/image/fetch/$s_!Bqi7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf36d63-36d7-4557-8305-65076a2e69e0_580x280.png)](https://substackcdn.com/image/fetch/$s_!Bqi7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf36d63-36d7-4557-8305-65076a2e69e0_580x280.png)
+
+**A** Sócrates lo condenaron a muerte por hacer demasiadas preguntas. La mayoría cree que eso es historia antigua. No lo es. Popper mostró que todo sistema que castiga la crítica lleva el mismo mecanismo, de la asamblea griega al directorio de hoy. Este artículo muestra cómo construir sistemas que corrigen errores en vez de ejecutar a quien los señala.
 
 # **Error crítico y el sistema que se corrige.**
 
-## **Artículo 02 de 21 de la serie "Gobernanza como Versionamiento".**
+## **Artículo 02 de 21 de la serie “Gobernanza como Versionamiento”.**
 
-*Este es el Artículo 02 de la serie. Trata a Karl Popper y su concepto de sociedad abierta. El concepto Git central es CONFIRMACIÓN (COMMIT): toda decisión es provisional, rastreable y abierta a corrección. Este artículo corresponde al Paso 12 de los 21 Pasos: Revisión (Review).*
+_Este es el Artículo 02 de la serie. Trata a Karl Popper y su concepto de sociedad abierta. El concepto Git central es CONFIRMACIÓN (COMMIT): toda decisión es provisional, rastreable y abierta a corrección. Este artículo corresponde al Paso 12 de los 21 Pasos: Revisión (Review)._
 
----
+* * *
 
 **¿Qué vas a encontrar aquí?**
 
-¿Alguna vez viste una decisión tomada con tanta certeza que nadie se animó a preguntar "¿y si sale mal"? ¿Una votación donde el resultado fue anunciado antes del debate? ¿Una reunión donde hacer preguntas era señal de deslealtad?
+¿Alguna vez viste una decisión tomada con tanta certeza que nadie se animó a preguntar “¿y si sale mal”? ¿Una votación donde el resultado fue anunciado antes del debate? ¿Una reunión donde hacer preguntas era señal de deslealtad?
 
 Ese es el patrón que Popper pasó toda su vida intentando entender. Y destruir.
 
----
+* * *
 
-## **0. El hombre que murió por dudar en público.**
+## **0\. El hombre que murió por dudar en público.**
 
 Atenas, 399 a.C.
 
@@ -24,13 +26,13 @@ Un hombre de setenta años está de pie ante quinientos jueces. No está acusado
 
 Su nombre es Sócrates.
 
-Podría haberse escapado. Los jueces le ofrecieron una salida: dejá de hacer preguntas y andate. Se negó. Dijo algo que quedó registrado para siempre, en palabras del discípulo que lo acompañó hasta el final: "Una vida sin examen no vale la pena ser vivida."
+Podría haberse escapado. Los jueces le ofrecieron una salida: dejá de hacer preguntas y andate. Se negó. Dijo algo que quedó registrado para siempre, en palabras del discípulo que lo acompañó hasta el final: “Una vida sin examen no vale la pena ser vivida.”
 
 Fue condenado por 280 votos contra 220. Tomó la cicuta (un veneno elaborado con una planta que paraliza el cuerpo progresivamente hasta detener el corazón). Murió pocas horas después, rodeado de amigos.
 
 El verdadero crimen de Sócrates era simple: no sabía, y lo decía en público. Y más que eso, probaba que los demás tampoco sabían, aunque fingieran saber. Generales que afirmaban entender el coraje no podían definirlo cuando él preguntaba. Políticos que afirmaban entender la justicia se bloqueaban cuando él pedía ejemplos. Artesanos que dominaban su oficio creían que dominaban todo, y Sócrates mostraba, con paciencia, que no era así.
 
-La frase que lo inmortalizó —"solo sé que nada sé"— no era humildad vacía. Era un método: partir del no-saber para aprender de verdad, en lugar de partir de la certeza y defender lo que ya se cree.
+La frase que lo inmortalizó —”solo sé que nada sé”— no era humildad vacía. Era un método: partir del no-saber para aprender de verdad, en lugar de partir de la certeza y defender lo que ya se cree.
 
 Atenas no se lo perdonó. La ciudad prefirió la muerte del cuestionador a la muerte de sus certezas.
 
@@ -50,13 +52,13 @@ Popper tomó esa intuición y la convirtió en sistema. Si Sócrates mostró que
 
 La respuesta tiene nombre: sociedad abierta. Y empieza exactamente donde termina la ejecución de Sócrates: en el reconocimiento de que ninguna idea, ninguna ley, ningún sistema es tan sagrado que no pueda ser cuestionado.
 
----
+* * *
 
-## **1. Donde todo comienza.**
+## **1\. Donde todo comienza.**
 
 Christchurch, Nueva Zelanda, febrero de 1943. Una ciudad de jardines impecables y silencio británico en el fin del mundo.
 
-En una oficina pequeña de la Universidad de Canterbury, un austríaco de cuarenta años tipea con furia. No tiene secretaria. Quien mecanografía los manuscritos es su esposa, Hennie, en sus horas libres. La universidad le dijo, con todas las letras, que investigar era "robo del tiempo de trabajo". ¿Publicar? Ni hablar. Publicó igual.
+En una oficina pequeña de la Universidad de Canterbury, un austríaco de cuarenta años tipea con furia. No tiene secretaria. Quien mecanografía los manuscritos es su esposa, Hennie, en sus horas libres. La universidad le dijo, con todas las letras, que investigar era “robo del tiempo de trabajo”. ¿Publicar? Ni hablar. Publicó igual.
 
 Karl Popper había huido de Viena cinco años antes. Familia judía, Austria devorada por el Reich en 1938. Consiguió un puesto en el lugar más lejano que aceptó recibirlo. Sin biblioteca decente. Sin colegas. Llegó a traducir a Platón del griego solo porque no encontró la edición que necesitaba.
 
@@ -64,41 +66,41 @@ Al otro lado del globo, Europa ardía. Campos de exterminio funcionando a escala
 
 En abril de 1943 terminó el manuscrito. Seiscientas páginas. Lo mandó a Inglaterra por correo marítimo. El libro fue rechazado por varias editoriales. Fue Friedrich Hayek —economista austríaco, exiliado en Londres, que aparecerá en el próximo artículo— quien encontró una editorial dispuesta a publicarlo.
 
-En noviembre de 1945 salió el libro: *La sociedad abierta y sus enemigos*. Los académicos lo detestaron. Popper atacaba a Platón, Hegel y Marx. Herejía. Pero el historiador Michael King escribió que era "el libro más influyente jamás escrito en Nueva Zelanda."
+En noviembre de 1945 salió el libro: _La sociedad abierta y sus enemigos_. Los académicos lo detestaron. Popper atacaba a Platón, Hegel y Marx. Herejía. Pero el historiador Michael King escribió que era “el libro más influyente jamás escrito en Nueva Zelanda.”
 
----
+* * *
 
-## **2. Contexto histórico.**
+## **2\. Contexto histórico.**
 
 El año es 1945. La Segunda Guerra dejó entre 70 y 85 millones de muertos. Dos bombas atómicas en Japón. Europa en escombros. El Holocausto: seis millones de judíos, más millones de gitanos, homosexuales y personas con discapacidades.
 
 La pregunta incómoda: ¿cómo sociedades enteras aceptaron sistemas que exigían obediencia ciega? La respuesta dominante: líderes malvados engañaron a pueblos inocentes. Popper discrepó. El problema era más antiguo. Platón, Hegel y Marx habían construido justificaciones para sociedades donde la crítica es un crimen y la obediencia es una virtud. Los dictadores del siglo XX no inventaron el totalitarismo. Heredaron una tradición que ya había pavimentado el camino.
 
----
+* * *
 
-## **3. La idea central.**
+## **3\. La idea central.**
 
 La tesis de Popper cabe en dos frases.
 
 Una sociedad abierta no es aquella que siempre acierta. Es la que permite identificar y corregir errores sin violencia.
 
-Pensá en tu edificio. En un tipo, el administrador decide todo solo, no rinde cuentas, y quien reclama es "conflictivo". En el otro, cualquier vecino puede señalar un problema, proponer un cambio, y si sale mal, deshacerlo en la próxima asamblea. El primero parece eficiente. El segundo parece un caos. Pero ¿cuál preferís cuando el administrador se equivoca?
+Pensá en tu edificio. En un tipo, el administrador decide todo solo, no rinde cuentas, y quien reclama es “conflictivo”. En el otro, cualquier vecino puede señalar un problema, proponer un cambio, y si sale mal, deshacerlo en la próxima asamblea. El primero parece eficiente. El segundo parece un caos. Pero ¿cuál preferís cuando el administrador se equivoca?
 
 Antes de Popper, el objetivo de una buena sociedad era encontrar la verdad: la constitución perfecta, el líder ideal. Después de Popper, el objetivo cambió: lo que importa es si el sistema permite descubrir que estabas equivocado y corregir a tiempo.
 
-Popper llamó a esto falibilismo: todo conocimiento humano es provisional. La pregunta que separa civilización de barbarie no es "¿quién tiene razón?". Es: "Cuando alguien se equivoca, ¿el sistema puede corregirlo sin violencia?"
+Popper llamó a esto falibilismo: todo conocimiento humano es provisional. La pregunta que separa civilización de barbarie no es “¿quién tiene razón?”. Es: “Cuando alguien se equivoca, ¿el sistema puede corregirlo sin violencia?”
 
 En la ciencia, Popper acuñó una regla que se convirtió en filtro estándar: una teoría que no puede ser probada falsa no es ciencia, es dogma. Basta un cisne negro para derribar la teoría de que todos los cisnes son blancos. Las buenas teorías son las que se ofrecen a ser destruidas.
 
 En política, la misma lógica. La democracia no es el mejor sistema porque produce los mejores líderes. Es el mejor porque permite reemplazar a los malos líderes sin guerra civil.
 
----
+* * *
 
-## **4. Desarrollos.**
+## **4\. Desarrollos.**
 
 ### **Los tres enemigos que nadie esperaba.**
 
-Popper hizo algo que ningún académico sensato haría: atacó a Platón, Hegel y Marx en el mismo libro. A los tres los llamó "enemigos intelectuales de la sociedad abierta."
+Popper hizo algo que ningún académico sensato haría: atacó a Platón, Hegel y Marx en el mismo libro. A los tres los llamó “enemigos intelectuales de la sociedad abierta.”
 
 Platón diseñó una república gobernada por filósofos-reyes que conocían la verdad y por lo tanto no podían ser cuestionados. Popper tradujo: un sistema cerrado donde el error del gobernante no tiene mecanismo de corrección.
 
@@ -118,27 +120,27 @@ Popper no estaba en contra del cambio. Estaba en contra de cambios irreversibles
 
 Popper respondió una pregunta espinosa: ¿una sociedad abierta debe tolerar a los intolerantes? Respuesta: no, si amenazan destruir la apertura. Una sociedad tolerante que tolera ilimitadamente a los intolerantes será destruida por ellos. Los nazis usaron la libertad de expresión de la República de Weimar para destruir Weimar. La apertura tiene que protegerse de quienes quieren cerrarla. No es censura de opiniones incómodas. Es el reconocimiento de que la libertad de expresión no incluye la libertad de destruir la libertad de expresión.
 
----
+* * *
 
-## **5. Legado histórico.**
+## **5\. Legado histórico.**
 
 George Soros leyó a Popper en la London School of Economics en los años cincuenta. Décadas después, creó la Open Society Foundations —el nombre viene directo del libro—, con un presupuesto de miles de millones, dedicada a promover sociedades abiertas en Europa del Este.
 
-En los años ochenta y noventa, cuando Polonia, Hungría y Checoslovaquia salieron de décadas de comunismo, *La sociedad abierta* se convirtió en manual de reconstrucción democrática. Václav Havel, dramaturgo que se convirtió en presidente checo, citaba a Popper como referencia. La Carta 77, manifiesto de disidentes checos, llevaba la lógica popperiana sin mencionar el nombre: el derecho a criticar el poder es anterior a cualquier constitución.
+En los años ochenta y noventa, cuando Polonia, Hungría y Checoslovaquia salieron de décadas de comunismo, _La sociedad abierta_ se convirtió en manual de reconstrucción democrática. Václav Havel, dramaturgo que se convirtió en presidente checo, citaba a Popper como referencia. La Carta 77, manifiesto de disidentes checos, llevaba la lógica popperiana sin mencionar el nombre: el derecho a criticar el poder es anterior a cualquier constitución.
 
-En la ciencia, el criterio de falsabilidad se convirtió en filtro estándar. ¿Un médico que dice "mi tratamiento funciona, pero no puede ser probado"? Popper diría: eso no es medicina. Es creencia.
+En la ciencia, el criterio de falsabilidad se convirtió en filtro estándar. ¿Un médico que dice “mi tratamiento funciona, pero no puede ser probado”? Popper diría: eso no es medicina. Es creencia.
 
----
+* * *
 
-## **6. Contradicciones y limitaciones.**
+## **6\. Contradicciones y limitaciones.**
 
-Popper atacó a Platón con vigor desproporcionado. Muchos estudiosos argumentan que simplificó *La República*, ignoró el contexto ateniense y trató diálogos filosóficos como un manifiesto político. La crítica a Hegel también es contestada: filósofos hegelianos dicen que Popper distorsionó conceptos complejos para encajarlos en la narrativa. No es consenso académico. Es la tesis de un lado.
+Popper atacó a Platón con vigor desproporcionado. Muchos estudiosos argumentan que simplificó _La República_ , ignoró el contexto ateniense y trató diálogos filosóficos como un manifiesto político. La crítica a Hegel también es contestada: filósofos hegelianos dicen que Popper distorsionó conceptos complejos para encajarlos en la narrativa. No es consenso académico. Es la tesis de un lado.
 
 Hay otra contradicción más sutil. Popper predicaba ingeniería gradual, pero presentaba sus propias ideas con la certeza de quien no acepta contestación. Estudiantes de la London School of Economics relataban que era intolerante con la discrepancia en los seminarios. El defensor de la sociedad abierta era, en la práctica, un debatiente autocrático. Hasta las grandes ideas tienen límites. El límite de Popper era Popper.
 
----
+* * *
 
-## **7. La traducción al versionamiento.**
+## **7\. La traducción al versionamiento.**
 
 Popper murió en 1994. Nunca usó el correo electrónico. Nunca escuchó hablar de Git. Pero sus ideas describen con precisión lo que Torvalds construyó en código una década después.
 
@@ -148,7 +150,7 @@ Una objeción aparece aquí con frecuencia: el falibilismo es una idea científi
 
 **Paso 12 — Revisión (Review):** Popper dijo que nadie está inmune al error. En el sistema de los 21 Pasos, la revisión hace eso estructural: toda propuesta pasa por otro par de ojos antes de ser incorporada. No es desconfianza personal. Es el reconocimiento de que el cerebro humano tiene puntos ciegos que la propia persona no puede ver. Quien propone no aprueba. Quien aprueba no es quien ejecutará solo. La separación no es burocracia: es el mecanismo popperiano de corrección antes de que el error se convierta en consecuencia.
 
-**Sociedad abierta es repositorio abierto.** Cualquier persona puede ver el código, señalar un error, proponer una corrección. En un sistema cerrado, los errores se esconden hasta el colapso. Raymond dijo: "Dados suficientes ojos, todos los errores son obvios." Popper diría: "Dada suficiente crítica, todos los errores son corregibles." Misma lógica.
+**Sociedad abierta es repositorio abierto.** Cualquier persona puede ver el código, señalar un error, proponer una corrección. En un sistema cerrado, los errores se esconden hasta el colapso. Raymond dijo: “Dados suficientes ojos, todos los errores son obvios.” Popper diría: “Dada suficiente crítica, todos los errores son corregibles.” Misma lógica.
 
 **La ingeniería gradual es ramificación (branch), prueba, fusión (merge), reversión (revert).** No derrumbás todo el sistema para probar una idea. Creás un borrador separado (rama), lo probás y solo lo incorporás a la versión oficial (fusión) si funciona. Si sale mal, lo revertís (reversión). Cambio reversible, incremental, verificable.
 
@@ -156,9 +158,9 @@ Una objeción aparece aquí con frecuencia: el falibilismo es una idea científi
 
 Pero la advertencia popperiana también aplica aquí: si los mantenedores empiezan a tratar sus decisiones como infalibles, si la revisión se convierte en un ritual vacío, si la bifurcación (fork) es vista como traición, el repositorio se convirtió en una sociedad cerrada.
 
----
+* * *
 
-## **8. Implicación práctica.**
+## **8\. Implicación práctica.**
 
 En 1960, una farmacéutica americana solicitó aprobación para vender talidomida en los Estados Unidos, el mismo medicamento que ya causaba malformaciones en bebés en Europa. La médica Frances Kelsey, recién contratada por la FDA (la agencia americana que evalúa la seguridad de medicamentos), se negó a aprobarlo. No porque tuviera prueba definitiva del daño. Porque los datos presentados no eran falsificables: la empresa no había demostrado de forma verificable que el medicamento era seguro para las embarazadas.
 
@@ -168,9 +170,9 @@ Un ejemplo ilustrativo: una cooperativa agrícola del interior decide, por votac
 
 Si la misma cooperativa hubiera redactado la propuesta (incidencia / issue), registrado los argumentos (revisión / review) y documentado la decisión con fecha y nombres (confirmación / commit), el error sería rastreable. Y reversible.
 
----
+* * *
 
-## **9. Lecciones aprendidas.**
+## **9\. Lecciones aprendidas.**
 
 Los buenos sistemas no siempre aciertan. Corrigen rápido.
 
@@ -182,9 +184,9 @@ La apertura sin protección se destruye. Todo sistema abierto necesita reglas co
 
 El error sin registro es un error que se repite. El error registrado es un error que enseña.
 
----
+* * *
 
-## **10. Explorando caminos y conexiones.**
+## **10\. Explorando caminos y conexiones.**
 
 En el artículo anterior, Locke nos enseñó que ninguna autoridad es legítima sin consentimiento.
 
@@ -194,20 +196,35 @@ Locke dijo de dónde viene la autoridad: de abajo hacia arriba. Popper dijo qué
 
 Pero queda una pregunta. Corregir errores exige información. ¿Quién tiene esa información? ¿El presidente? ¿El comité central?
 
-En 1945, el mismo año en que Popper publicaba *La sociedad abierta*, un economista austríaco —otro exiliado— publicaba un artículo de veinte páginas. Friedrich Hayek. La tesis: ninguna persona, ningún comité puede reunir la información necesaria para tomar buenas decisiones. El conocimiento útil está disperso en millones de mentes.
+En 1945, el mismo año en que Popper publicaba _La sociedad abierta_ , un economista austríaco —otro exiliado— publicaba un artículo de veinte páginas. Friedrich Hayek. La tesis: ninguna persona, ningún comité puede reunir la información necesaria para tomar buenas decisiones. El conocimiento útil está disperso en millones de mentes.
 
 Si Popper mostró que equivocarse es inevitable, Hayek mostrará que centralizar la corrección es imposible.
 
----
+* * *
 
-## **11. Referencias.**
+Artículos anteriores, prefacio, introducción y documentación completa disponibles aquí:
 
-MINTZ, Morton. **The Therapeutic Nightmare**. Boston: Houghton Mifflin, 1965. (Sin edición en español disponible.)
+**<https://codeberg.org/openarchy/gitgov>**
 
-POPPER, Karl R. **La sociedad abierta y sus enemigos**. 2 vols. Trad. Eduardo Loedel. Buenos Aires: Paidós, 1992. (Original: *The Open Society and Its Enemies*. London: Routledge, 1945.)
+**<https://github.com/openarchy/gitgov>**
 
-POPPER, Karl R. **La lógica de la investigación científica**. Trad. Víctor Sánchez de Zavala. Madrid: Tecnos, 1962. (Original: *The Logic of Scientific Discovery*. London: Hutchinson, 1959.)
+Todo el contenido es completamente open source y accesible para todos. Licenciado bajo CC BY-SA 4.0: puedes leer, compartir, traducir, adaptar y mejorar — siempre que mantengas la atribución y distribuyas los derivados bajo la misma licencia.
 
-POPPER, Karl R. **Conjeturas y refutaciones: el desarrollo del conocimiento científico**. Trad. Néstor Míguez. Buenos Aires: Paidós, 1967. (Original: *Conjectures and Refutations*. London: Routledge, 1963.)
+Si encuentras un error, tienes una idea o quieres proponer una mejora, abre un issue o haz un fork en Codeberg o GitHub. Las contribuciones son bienvenidas. Esa es exactamente la idea.
 
-POPPER, Karl R. **Búsqueda sin término: una autobiografía intelectual**. Trad. Carmen García Trevijano. Madrid: Tecnos, 2002. (Original: *Unended Quest*. London: Routledge, 1976.)
+* * *
+
+## **11\. Referencias.**
+
+  1. MINTZ, Morton. **The Therapeutic Nightmare**. Boston: Houghton Mifflin, 1965. (Sin edición en español disponible.)
+
+  2. POPPER, Karl R. **La sociedad abierta y sus enemigos**. 2 vols. Trad. Eduardo Loedel. Buenos Aires: Paidós, 1992. (Original: _The Open Society and Its Enemies_. London: Routledge, 1945.)
+
+  3. POPPER, Karl R. **La lógica de la investigación científica**. Trad. Víctor Sánchez de Zavala. Madrid: Tecnos, 1962. (Original: _The Logic of Scientific Discovery_. London: Hutchinson, 1959.)
+
+  4. POPPER, Karl R. **Conjeturas y refutaciones: el desarrollo del conocimiento científico**. Trad. Néstor Míguez. Buenos Aires: Paidós, 1967. (Original: _Conjectures and Refutations_. London: Routledge, 1963.)
+
+  5. POPPER, Karl R. **Búsqueda sin término: una autobiografía intelectual**. Trad. Carmen García Trevijano. Madrid: Tecnos, 2002. (Original: _Unended Quest_. London: Routledge, 1976.)
+
+
+

@@ -1,14 +1,15 @@
-# **John Locke**
+[![](https://substackcdn.com/image/fetch/$s_!5Grx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c3d6beb-019e-420c-a48a-e2bd70727c6d_660x350.png)](https://substackcdn.com/image/fetch/$s_!5Grx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c3d6beb-019e-420c-a48a-e2bd70727c6d_660x350.png)
+###  La Reversión Original
 
-# **La Reversión Original**
+#### **Artículo 01 de 21 — Serie Gobernanza como Versionamiento**
 
-## **Artículo 01 de 21 — Serie Gobernanza como Versionamiento**
+* * *
 
----
+El poder sin forma de corregir errores es tiranía. Locke lo escribió en 1689. Seguimos ignorando la lección.
 
-*Este es el Artículo 01 de la serie. Cubre a John Locke (1689, Dos Tratados sobre el Gobierno), cuyo concepto central es el consentimiento como fuente de autoridad legítima — el fundamento político del mecanismo de reversión (revert). El paso correspondiente en los 21 Pasos es el Paso 15 (Reversión/REVERT).*
+_Este es el Artículo 01 de la serie. Cubre a John Locke (1689, Dos Tratados sobre el Gobierno), cuyo concepto central es el consentimiento como fuente de autoridad legítima — el fundamento político del mecanismo de reversión (revert). El paso correspondiente en los 21 Pasos es el Paso 15 (Reversión/REVERT)._
 
----
+* * *
 
 **¿Qué vas a encontrar aquí?**
 
@@ -16,9 +17,9 @@
 
 Este problema tiene 335 años. Y alguien ya propuso la solución.
 
----
+* * *
 
-## **1. Donde todo comienza**
+## **1\. Donde todo comienza**
 
 Londres, invierno de 1689. El rey Jacobo II acababa de huir a Francia. Nadie lloró.
 
@@ -32,29 +33,29 @@ Si los reyes gobiernan porque Dios los eligió (eso era lo que todo el mundo cre
 
 Nadie tenía respuesta. Salvo un hombre de 57 años, recién llegado del exilio en Holanda, discreto, metódico, peligroso en sus ideas. John Locke abrió su baúl, sacó un manuscrito y cambió la historia de la humanidad.
 
-El libro se llamaba *Dos Tratados sobre el Gobierno*. Y la tesis era una bomba: los gobiernos no caen del cielo. Los crean las personas. Y las personas pueden deshacerlos.
+El libro se llamaba _Dos Tratados sobre el Gobierno_. Y la tesis era una bomba: los gobiernos no caen del cielo. Los crean las personas. Y las personas pueden deshacerlos.
 
----
+* * *
 
-## **2. Contexto histórico**
+## **2\. Contexto histórico**
 
-En 1689, toda Europa funcionaba sobre la base de "manda quien puede, obedece quien tiene juicio." Monarquías absolutas en Francia, España, Portugal, Rusia. Los reyes eran dueños del país: de la tierra, las leyes, las personas. ¿La justificación? El derecho divino. Dios eligió al rey. Cuestionar al rey era cuestionar a Dios.
+En 1689, toda Europa funcionaba sobre la base de “manda quien puede, obedece quien tiene juicio.” Monarquías absolutas en Francia, España, Portugal, Rusia. Los reyes eran dueños del país: de la tierra, las leyes, las personas. ¿La justificación? El derecho divino. Dios eligió al rey. Cuestionar al rey era cuestionar a Dios.
 
-Robert Filmer, intelectual inglés, había publicado *Patriarcha* años antes: los reyes son como padres. Los súbditos son como hijos. Los hijos obedecen. Punto. La idea era tan aceptada que nadie la encontraba extraña.
+Robert Filmer, intelectual inglés, había publicado _Patriarcha_ años antes: los reyes son como padres. Los súbditos son como hijos. Los hijos obedecen. Punto. La idea era tan aceptada que nadie la encontraba extraña.
 
 Locke sí. Y decidió que era hora de decir por qué.
 
 No era un revolucionario de barricadas. Era médico, filósofo, consejero político. Había vivido a la sombra del poder y visto de cerca cómo funcionaba. Sabía que las ideas equivocadas sostienen sistemas enteros.
 
----
+* * *
 
-## **3. La idea central**
+## **3\. La idea central**
 
 La tesis de Locke cabe en una frase: ninguna autoridad es legítima si las personas no consintieron en ella.
 
 Hoy parece obvio. En 1689, era pedir que te ahorcaran.
 
-Locke nos pidió que imagináramos un mundo sin gobierno. Lo llamó "estado de naturaleza." En ese estado, todos son libres e iguales. Nadie nace superior. No hay reyes, jueces, leyes escritas.
+Locke nos pidió que imagináramos un mundo sin gobierno. Lo llamó “estado de naturaleza.” En ese estado, todos son libres e iguales. Nadie nace superior. No hay reyes, jueces, leyes escritas.
 
 Pero hay un problema: plantás trigo, trabajás meses, cosechás, guardás. Aparece alguien más fuerte y te lo roba todo. Intentás defenderte, pero estás solo. En el estado de naturaleza, cada uno es juez en su propia causa. Resultado: conflictos sin fin, inseguridad permanente.
 
@@ -64,11 +65,11 @@ El contrato no es un documento real. Nadie lo firmó. Es un acuerdo implícito: 
 
 Pero el gobierno no tiene cheque en blanco. El poder viene de abajo hacia arriba. Las personas ceden autoridad con una condición: que el gobierno proteja la vida, la libertad y la propiedad. Si falla, si empieza a oprimir en vez de proteger, el contrato está roto. Y el pueblo tiene derecho a cambiar el gobierno.
 
-Antes de Locke, la lógica era "obedecé porque Dios lo quiso." Después de Locke, la lógica pasó a ser "obedecé mientras sirva." La diferencia entre esas dos frases es la diferencia entre súbdito y ciudadano.
+Antes de Locke, la lógica era “obedecé porque Dios lo quiso.” Después de Locke, la lógica pasó a ser “obedecé mientras sirva.” La diferencia entre esas dos frases es la diferencia entre súbdito y ciudadano.
 
----
+* * *
 
-## **4. Desarrollos**
+## **4\. Desarrollos**
 
 ### **El trabajo como partida de nacimiento de la propiedad**
 
@@ -88,29 +89,29 @@ La solución: dividir. Locke propuso separar a quienes hacen las leyes (Legislat
 
 Montesquieu lo refinó después, agregando el Judicial. Pero la semilla es de Locke: la concentración es peligro, la distribución es protección. Esta lógica aparece intacta en los 21 Pasos: nadie aprueba su propio trabajo (Paso 12). Siempre otro par de ojos.
 
----
+* * *
 
-## **5. Legado histórico**
+## **5\. Legado histórico**
 
-Thomas Jefferson, al escribir la Declaración de Independencia de los Estados Unidos en 1776, prácticamente copió a Locke: "Sostenemos como evidentes estas verdades: que todos los hombres son creados iguales; que son dotados por su Creador de ciertos derechos inalienables; que entre éstos están la Vida, la Libertad y la búsqueda de la Felicidad." Jefferson cambió "propiedad" por "búsqueda de la Felicidad." El resto es Locke, palabra por palabra.
+Thomas Jefferson, al escribir la Declaración de Independencia de los Estados Unidos en 1776, prácticamente copió a Locke: “Sostenemos como evidentes estas verdades: que todos los hombres son creados iguales; que son dotados por su Creador de ciertos derechos inalienables; que entre éstos están la Vida, la Libertad y la búsqueda de la Felicidad.” Jefferson cambió “propiedad” por “búsqueda de la Felicidad.” El resto es Locke, palabra por palabra.
 
 La Revolución Francesa (1789) bebió de la misma fuente. La Declaración de los Derechos del Hombre y del Ciudadano hace eco del contrato social, el consentimiento y los límites del poder.
 
 Las constituciones de todo el mundo llevan las huellas digitales de Locke: separación de poderes, soberanía popular, derechos que existen antes de cualquier ley. Brasil, Portugal, Alemania, Sudáfrica, India. Locke no inventó la democracia, pero le dio su justificación moderna.
 
----
+* * *
 
-## **6. Contradicciones y limitaciones**
+## **6\. Contradicciones y limitaciones**
 
 Locke defendía la libertad, la igualdad, los derechos naturales. Pero invirtió en la Royal African Company, que traficaba personas esclavizadas. Ayudó a redactar las Constituciones de Carolina (colonia americana), que permitían la esclavitud.
 
-"Todos los hombres nacen libres e iguales" y al mismo tiempo lucrar con la esclavitud. Nunca resolvió esa contradicción. Sus ideas fueron usadas tanto para liberar (la abolición, las independencias) como para oprimir (el colonialismo, el despojo de los pueblos indígenas).
+“Todos los hombres nacen libres e iguales” y al mismo tiempo lucrar con la esclavitud. Nunca resolvió esa contradicción. Sus ideas fueron usadas tanto para liberar (la abolición, las independencias) como para oprimir (el colonialismo, el despojo de los pueblos indígenas).
 
 Esto enseña algo que la propia serie defiende: las buenas ideas no garantizan buenas prácticas. El sistema requiere revisión constante, incluso (y especialmente) de quien lo creó. Si Locke hubiera sido sometido a revisión entre pares (REVIEW) con la diversidad que le faltó a su tiempo, la contradicción habría aparecido antes.
 
----
+* * *
 
-## **7. La traducción al versionamiento**
+## **7\. La traducción al versionamiento**
 
 Locke nunca vio una computadora. Murió en 1704, tres siglos antes de que Git existiera. Pero sus ideas explican el corazón del versionamiento como si hubiera leído el manual.
 
@@ -130,9 +131,9 @@ La respuesta está en el mecanismo, no en el medio. Lo que Git hace con archivos
 
 Alerta de vigilancia: incluso los sistemas abiertos pueden traicionar a Locke. Si un grupo pequeño controla quién puede fusionar (MERGE), quién puede abrir una incidencia (ISSUE), quién tiene permiso para bifurcar (FORK), el consentimiento de los gobernados se convirtió en ficción. El sistema parece abierto, pero opera como una monarquía absoluta con una interfaz bonita.
 
----
+* * *
 
-## **8. Implicación práctica**
+## **8\. Implicación práctica**
 
 En junio de 1215, un grupo de barones ingleses hizo algo sin precedentes: obligó al rey Juan a firmar un documento que limitaba su propio poder. La Magna Carta no era una constitución moderna. Era un contrato de 63 cláusulas que decía, en lenguaje directo: hay cosas que el rey no puede hacer. Encarcelar a alguien sin juicio. Cobrar impuestos sin aprobación. Ignorar la ley que él mismo prometió respetar.
 
@@ -142,9 +143,9 @@ Imaginá ahora una asociación de vecinos que decide todo en reunión presencial
 
 Si esa asociación adoptara el principio de Locke (el consentimiento de los gobernados), tendría que garantizar que todos pudieran ver las decisiones (Paso 1), proponer cambios (Paso 9), y cuestionar decisiones malas (Paso 15). La reunión presencial no desaparece, pero deja de ser el único canal.
 
----
+* * *
 
-## **9. Lecciones aprendidas**
+## **9\. Lecciones aprendidas**
 
 El consentimiento no es una votación única: es un permiso continuo. Si deja de servir, puede revocarse.
 
@@ -156,11 +157,11 @@ La propiedad (o la autoría) viene del trabajo visible, no del cargo o el títul
 
 Incluso el creador de un sistema puede contradecir sus propios principios. El sistema debe funcionar a pesar de las fallas de quien lo creó.
 
----
+* * *
 
-## **10. Explorando caminos y conexiones**
+## **10\. Explorando caminos y conexiones**
 
-Este es el primer artículo del núcleo de la serie *Gobernanza como Versionamiento*. La introducción presentó a Stallman, Raymond y Torvalds: las herramientas. Ahora empezamos a cavar los fundamentos: ¿por qué funcionan esas herramientas?
+Este es el primer artículo del núcleo de la serie _Gobernanza como Versionamiento_. La introducción presentó a Stallman, Raymond y Torvalds: las herramientas. Ahora empezamos a cavar los fundamentos: ¿por qué funcionan esas herramientas?
 
 Locke respondió la primera pregunta: ¿de dónde viene la autoridad? Del consentimiento. El poder que fluye de arriba hacia abajo, sin permiso, es tiranía. El poder que fluye de abajo hacia arriba, con condiciones, es gobierno legítimo. Y el gobierno legítimo puede deshacerse cuando falla.
 
@@ -170,16 +171,31 @@ Pero Locke dejó una brecha enorme.
 
 Locke no tenía respuesta para eso. Pero en 1945, un filósofo austriaco refugiado en Londres durante la Segunda Guerra Mundial escribió un libro que la da: el valor de un sistema no está en acertar. Está en la velocidad con que puede corregir.
 
-Su nombre era Karl Popper. Y nos va a mostrar que la pregunta correcta no es "¿quién debe gobernar?", sino "¿cómo nos deshacemos de los gobernantes malos sin derramamiento de sangre?"
+Su nombre era Karl Popper. Y nos va a mostrar que la pregunta correcta no es “¿quién debe gobernar?”, sino “¿cómo nos deshacemos de los gobernantes malos sin derramamiento de sangre?”
 
----
+* * *
 
-## **11. Referencias**
+Artículos anteriores, prefacio, introducción y documentación completa disponibles aquí:
 
-DUNN, John. **Locke: A Very Short Introduction**. Oxford: Oxford University Press, 2003. (sin edición en español disponible)
+**<https://codeberg.org/openarchy/gitgov>**
 
-HOLT, James Clarke. **Magna Carta**. 2. ed. Cambridge: Cambridge University Press, 1992. (sin edición en español disponible)
+**<https://github.com/openarchy/gitgov>**
 
-LASLETT, Peter. **Introduction to Locke's Two Treatises of Government**. Cambridge: Cambridge University Press, 1988. (sin edición en español disponible)
+Todo el contenido es completamente open source y accesible para todos. Licenciado bajo CC BY-SA 4.0: puedes leer, compartir, traducir, adaptar y mejorar — siempre que mantengas la atribución y distribuyas los derivados bajo la misma licencia.
 
-LOCKE, John. **Dos Tratados sobre el Gobierno Civil**. Madrid: Tecnos, 2010. (Original: Two Treatises of Government. London: Awnsham Churchill, 1689.)
+Si encuentras un error, tienes una idea o quieres proponer una mejora, abre un issue o haz un fork en Codeberg o GitHub. Las contribuciones son bienvenidas. Esa es exactamente la idea.
+
+* * *
+
+## **11\. Referencias**
+
+  1. DUNN, John. **Locke: A Very Short Introduction**. Oxford: Oxford University Press, 2003. (sin edición en español disponible)
+
+  2. HOLT, James Clarke. **Magna Carta**. 2. ed. Cambridge: Cambridge University Press, 1992. (sin edición en español disponible)
+
+  3. LASLETT, Peter. **Introduction to Locke’s Two Treatises of Government**. Cambridge: Cambridge University Press, 1988. (sin edición en español disponible)
+
+  4. LOCKE, John. **Dos Tratados sobre el Gobierno Civil**. Madrid: Tecnos, 2010. (Original: Two Treatises of Government. London: Awnsham Churchill, 1689.)
+
+
+

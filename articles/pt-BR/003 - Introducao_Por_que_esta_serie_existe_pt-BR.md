@@ -1,14 +1,12 @@
-# **Série Governança como Versionamento**
+[![](https://substackcdn.com/image/fetch/$s_!Xuvu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a2585f8-cad6-4a7d-ab06-85435abab0f1_2454x1728.png)](https://substackcdn.com/image/fetch/$s_!Xuvu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a2585f8-cad6-4a7d-ab06-85435abab0f1_2454x1728.png)
 
-## **Introdução: Por que esta série existe?**
+* * *
 
----
+> **O que você vai encontrar aqui?**
+> 
+> Três histórias de origem (a impressora da Xerox, o estudante finlandês no quarto, a ferramenta criada em dez dias) e a pergunta que conecta todas elas: se funcionou para código, por que não funcionaria para decisões humanas?
 
-**O que você vai encontrar aqui?**
-
-Três histórias de origem (a impressora da Xerox, o estudante finlandês no quarto, a ferramenta criada em dez dias) e a pergunta que conecta todas elas: se funcionou para código, por que não funcionaria para decisões humanas?
-
----
+* * *
 
 ### **1\. O invisível revelado**
 
@@ -24,11 +22,9 @@ Pois existe algo ainda mais invisível que o Linux e o Git. E muito mais urgente
 
 Nossos sistemas de governo (assembleias, câmaras, conselhos, associações, cooperativas, condomínios) ainda funcionam com regras de séculos atrás. Regras pensadas quando a informação viajava a cavalo, não por fibra ótica. Quando uma carta de Paris a Lyon levava dias. Quando o mundo era lento o suficiente para esperar.
 
-Estamos tentando rodar um aplicativo de 2026 num computador dos anos 80\. Trava. Esquenta. Não dá vazão.
+Estamos tentando rodar um aplicativo de 2026 num computador dos anos 80. Trava. Esquenta. Não dá vazão.
 
----
-
-### 
+* * *
 
 ### **2\. Por que esta série existe?**
 
@@ -42,13 +38,13 @@ Para entender qualquer coisa com profundidade, ajuda saber de onde veio. Quem ac
 
 O que o software livre descobriu em quatro décadas pode ajudar a consertar esse alicerce. Não porque tecnologia resolve tudo (não resolve), mas porque as lições de como milhares de pessoas trabalham juntas sem chefe servem para qualquer grupo humano que precisa tomar decisões coletivas.
 
----
+* * *
 
 ### **3\. As três histórias de origem**
 
 **A impressora que não podia ser consertada**
 
-MIT, 1980\. Richard Stallman era programador no Laboratório de Inteligência Artificial. Cabelos longos, barba desgrenhada, tênis surrados. A impressora do laboratório travava papel o tempo todo. Todo mundo reclamava. Stallman teve uma ideia simples: modificar o programa da impressora para que ela avisasse automaticamente quando travasse. Problema resolvido, certo?
+MIT, 1980. Richard Stallman era programador no Laboratório de Inteligência Artificial. Cabelos longos, barba desgrenhada, tênis surrados. A impressora do laboratório travava papel o tempo todo. Todo mundo reclamava. Stallman teve uma ideia simples: modificar o programa da impressora para que ela avisasse automaticamente quando travasse. Problema resolvido, certo?
 
 Errado. A Xerox (fabricante da impressora) se recusou a fornecer o código-fonte, as instruções internas que fazem o programa funcionar. Segredo comercial. Fechado. Trancado. Stallman foi até um colega de outra universidade que tinha acesso ao código, pediu uma cópia. O colega, que tinha assinado um acordo de sigilo com a Xerox, recusou.
 
@@ -60,11 +56,11 @@ Stallman não inventou tecnologia. Inventou ética para tecnologia. Disse: conhe
 
 **O estudante que criou um sistema operacional no quarto**
 
-Helsinki, 1991\. Linus Torvalds tinha 21 anos e estudava Ciência da Computação. Queria usar Unix (um sistema operacional profissional) nos computadores da universidade, mas o acesso era limitado. Horários controlados. Filas intermináveis. Para um estudante sem dinheiro na Finlândia, comprar Unix era impossível: custava milhares de dólares.
+Helsinki, 1991. Linus Torvalds tinha 21 anos e estudava Ciência da Computação. Queria usar Unix (um sistema operacional profissional) nos computadores da universidade, mas o acesso era limitado. Horários controlados. Filas intermináveis. Para um estudante sem dinheiro na Finlândia, comprar Unix era impossível: custava milhares de dólares.
 
 Em vez de reclamar, criou o seu. Sozinho. No quarto. Como hobby.
 
-Em 25 de agosto, postou uma mensagem num fórum online: "Estou fazendo um sistema operacional livre. Apenas um hobby, não será grande e profissional." Disponibilizou o código aberto. Qualquer um podia ver, modificar, melhorar. Chamou de Linux.
+Em 25 de agosto, postou uma mensagem num fórum online: “Estou fazendo um sistema operacional livre. Apenas um hobby, não será grande e profissional.” Disponibilizou o código aberto. Qualquer um podia ver, modificar, melhorar. Chamou de Linux.
 
 O que aconteceu surpreendeu até Torvalds. Programadores do mundo inteiro começaram a contribuir. Corrigiam erros. Adicionavam funções. Melhoravam desempenho. Sem chefe. Sem empresa. Sem salário. Apenas porque queriam e podiam.
 
@@ -72,7 +68,7 @@ Em poucos anos, Linux se tornou o sistema operacional mais confiável do planeta
 
 **A ferramenta criada em dez dias**
 
-Anos 2000\. Linux já era enorme. Milhares de programadores colaborando. Torvalds usava uma ferramenta chamada BitKeeper para gerenciar as mudanças no código. BitKeeper era software fechado, mas o dono permitia uso gratuito pela comunidade Linux, com uma condição: ninguém podia tentar descobrir como funcionava por dentro.
+Anos 2000. Linux já era enorme. Milhares de programadores colaborando. Torvalds usava uma ferramenta chamada BitKeeper para gerenciar as mudanças no código. BitKeeper era software fechado, mas o dono permitia uso gratuito pela comunidade Linux, com uma condição: ninguém podia tentar descobrir como funcionava por dentro.
 
 Em 2005, um desenvolvedor violou essa condição. O dono do BitKeeper cancelou o acesso gratuito. Sem aviso. Sem negociação. De uma hora para outra, Torvalds e toda a comunidade Linux ficaram sem ferramenta e com anos de histórico de desenvolvimento em risco.
 
@@ -80,11 +76,11 @@ Torvalds ficou furioso. De novo. E de novo, em vez de reclamar, agiu. Em dez dia
 
 A lição se repetia: quando alguém tranca o acesso, a resposta não é pedir permissão. É construir algo que ninguém possa trancar.
 
-Raymond já tinha escrito, em 1997, um ensaio que mudou a forma como o mundo entendia software livre: "A Catedral e o Bazar". Na catedral, um pequeno grupo projeta tudo em segredo e entrega pronto. No bazar, qualquer pessoa contribui, revisa, melhora. A catedral é bonita, mas frágil. O bazar é barulhento, mas encontra erros rápido. Raymond cunhou a frase que virou regra: "Dados olhos suficientes, todos os erros são óbvios."
+Raymond já tinha escrito, em 1997, um ensaio que mudou a forma como o mundo entendia software livre: “A Catedral e o Bazar”. Na catedral, um pequeno grupo projeta tudo em segredo e entrega pronto. No bazar, qualquer pessoa contribui, revisa, melhora. A catedral é bonita, mas frágil. O bazar é barulhento, mas encontra erros rápido. Raymond cunhou a frase que virou regra: “Dados olhos suficientes, todos os erros são óbvios.”
 
 O Git e o Linux eram a prova viva de que Raymond estava certo.
 
----
+* * *
 
 ### **4\. O que une os três**
 
@@ -96,13 +92,13 @@ O padrão é sempre o mesmo: alguém tenta trancar o conhecimento. A resposta n�
 
 Frustração como combustível. Abertura como resposta. Colaboração sem hierarquia como método.
 
-E funcionou. Não apenas funcionou: superou tudo que veio antes. O mundo digital inteiro roda sobre o que esses três construíram. Seu celular, seus sites favoritos, sua Netflix, seu WhatsApp, seu banco. Tudo rodando em servidores Linux. Todo o código de software que faz isso possível versionado com ferramentas que seguem os princípios que Git estabeleceu. Tudo código aberto.
+E funcionou. Não apenas funcionou: superou tudo que veio antes. O mundo digital inteiro roda sobre o que esses três construíram. Seu celular, seus sites favoritos, sua Netflix, seu WhatsApp, seu banco. Tudo rodando em servidores Linux. Todo o código de software que faz isso possível é versionado com ferramentas que seguem os princípios que o Git estabeleceu. Tudo código aberto.
 
 Quase ninguém sabe. Mas agora você sabe.
 
----
+* * *
 
-### **5\. Por que isso importa para você?** 
+### **5\. Por que isso importa para você?**
 
 Você pode estar pensando: bonito para software. Mas o que isso tem a ver com minha vida, meu condomínio, minha cooperativa, minha cidade?
 
@@ -116,35 +112,56 @@ Se código aberto provou que abertura não é fraqueza (é mecanismo de correç�
 
 A resposta é simples: porque ninguém juntou as peças. Ainda.
 
----
+* * *
 
 ### **6\. Estrutura da série e o que vem a seguir**
 
 Esta série tem 21 artigos no núcleo, mais prefácio, introdução, conclusão e postface. Este texto que você leu é a introdução: a base sobre a qual todo o resto se apoia. Depois vêm 21 artigos, cada um dedicado a um pensador que adiciona uma peça ao quebra-cabeça. E uma conclusão que abre a porta para o que vem depois.
 
-No total, 29 autores ao longo de 335 anos: de John Locke em 1689 a Ethan Mollick em 2024\. Filósofos, economistas, biólogos, matemáticos, sociólogos. Cada peça se conecta com a anterior e com a seguinte.
+No total, 29 autores ao longo de 335 anos: de John Locke em 1689 a Ethan Mollick em 2024. Filósofos, economistas, biólogos, matemáticos, sociólogos. Cada peça se conecta com a anterior e com a seguinte.
 
 A série será publicada em português, inglês e castelhano. Depois francês, italiano, alemão. Quem quiser ajudar a traduzir está convidado. Modelo bazar aplicado ao próprio projeto.
 
 Agora vamos recuar 335 anos.
 
-Inglaterra, 1689\. Um filósofo chamado John Locke acabou de voltar do exílio na Holanda. O rei que o perseguiu fugiu do país. E Locke publica, anonimamente, um livro que diz algo que ninguém tinha ousado colocar no papel antes: nenhum governo é legítimo se as pessoas não consentiram com ele.
+Inglaterra, 1689. Um filósofo chamado John Locke acabou de voltar do exílio na Holanda. O rei que o perseguiu fugiu do país. E Locke publica, anonimamente, um livro que diz algo que ninguém tinha ousado colocar no papel antes: nenhum governo é legítimo se as pessoas não consentiram com ele.
 
 Parece óbvio hoje. Em 1689, era o tipo de frase que podia custar a cabeça de quem a escrevesse.
 
 Locke não sabia, mas tinha acabado de inventar o primeiro revert da história política.
 
----
+* * *
+
+Artigos anteriores, prefácio, introdução e documentação completa estão disponíveis nestes lugares: 
+
+<https://codeberg.org/openarchy/gitgov>
+
+<https://github.com/openarchy/gitgov>
+
+Todo o conteúdo é totalmente open source e acessível a todos.   
+O conteúdo está licenciado sob CC BY-SA 4.0: você pode ler, compartilhar, traduzir, adaptar e melhorar — desde que mantenha a atribuição e distribua derivados sob a mesma licença.  
+  
+Se encontrar um erro, tiver uma ideia ou quiser propor uma melhoria, é só abrir uma issue ou fazer um fork no Codeberg ou no GitHub. Contribuições são bem-vindas. Essa é exatamente a ideia.
+
+* * *
 
 ### **7\. Referências**
 
-1. STALLMAN, Richard. **Free Software, Free Society: Selected Essays of Richard M. Stallman**. Boston: Free Software Foundation, 2002\.
+  1. STALLMAN, Richard. **Free Software, Free Society: Selected Essays of Richard M. Stallman**. Boston: Free Software Foundation, 2002.  
 
-2. RAYMOND, Eric S. **The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary**. Sebastopol: O'Reilly Media, 1999\.
 
-3. TORVALDS, Linus; DIAMOND, David. **Just for Fun: The Story of an Accidental Revolutionary**. Nova York: HarperBusiness, 2001\.
+  2. RAYMOND, Eric S. **The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary**. Sebastopol: O’Reilly Media, 1999.  
 
-4. WEBER, Steven. **The Success of Open Source**. Cambridge: Harvard University Press, 2004\.
 
-5. GLEICK, James. **The Information: A History, a Theory, a Flood**. Nova York: Pantheon Books, 2011\.
+  3. TORVALDS, Linus; DIAMOND, David. **Just for Fun: The Story of an Accidental Revolutionary**. Nova York: HarperBusiness, 2001.  
+
+
+  4. WEBER, Steven. **The Success of Open Source**. Cambridge: Harvard University Press, 2004.  
+
+
+  5. GLEICK, James. **The Information: A History, a Theory, a Flood**. Nova York: Pantheon Books, 2011.  
+  
+
+
+
 

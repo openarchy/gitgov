@@ -1,22 +1,14 @@
-
-# Artigo Alfa - Você nunca parte do zero.
-
-Por que algumas pessoas aprendem qualquer coisa em meses?  
-E outras levam anos fazendo exatamente a mesma coisa? 
-
-Não é talento. É método.   
-E o método começa entendendo isso: você nunca parte do zero.
-
+[![](https://substackcdn.com/image/fetch/$s_!U8xi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4731294-3fbe-45b2-814f-5b83a8de7358_2752x1536.png)](https://substackcdn.com/image/fetch/$s_!U8xi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4731294-3fbe-45b2-814f-5b83a8de7358_2752x1536.png)
 
 ### **1\. Como usar o que você já sabe para aprender qualquer coisa mais rápido**
 
-Este é o Artigo Alfa. Não é o primeiro da série que vou publicar, é o que vem antes do primeiro.  
+Este é o Artigo Alfa. Não é o primeiro da série que vou publicar, é o que vem antes do primeiro. 
 
- A série “Governança como Versionamento” começa de fato no Artigo Zero, a partir de 7 de abril de 2026, quando o Git completa 21 anos.   
- 
- O artigo Alfa existe porque qualquer argumento honesto mostra o método antes de aplicá-lo.   
- 
- O que você vai ler aqui é o fundamento de tudo que vem depois: a ideia de que estruturas se repetem entre campos diferentes, e que enxergar isso muda a velocidade com que você aprende qualquer coisa. A série inteira depende desse reconhecimento.
+A série “Governança como Versionamento” começa de fato no Artigo Zero, a partir de 7 de abril de 2026, quando o Git completa 21 anos. 
+
+O artigo Alfa existe porque qualquer argumento honesto mostra o método antes de aplicá-lo. 
+
+O que você vai ler aqui é o fundamento de tudo que vem depois: a ideia de que estruturas se repetem entre campos diferentes, e que enxergar isso muda a velocidade com que você aprende qualquer coisa. A série inteira depende desse reconhecimento.
 
 * * *
 
@@ -244,31 +236,7 @@ Por fim, Julia pega a foto, cria uma cópia completa sob sua própria conta e co
 
 ### **10\. Os 21 conceitos, de um lado ao outro:**
 
-| Termo | Na foto | Na governança |
-| ----- | ----- | ----- |
-| **MAIN** | versão oficial, destino do que foi validado | versão oficial do sistema |
-| **ISSUE** | problema identificado por Maria | questão a resolver |
-| **ASSIGN** | Maria designa Mariana | designa responsável |
-| **CONFIG** | Mariana registra identidade e preferências no editor | configura ambiente e identidade |
-| **BRANCH** | cópia separada no dispositivo de Mariana | rascunho local sem mexer no original remoto |
-| **HOOKS** | verificações automáticas ao salvar | ações automáticas de verificação no fluxo |
-| **COMMIT** | cada ajuste de Mariana registrado com autoria e motivo | mudança descrita, assinada e salva |
-| **STASH** | filtro guardado por Mariana no bolso, temporário e volátil | rascunho volátil fora do histórico atual |
-| **PULL REQUEST** | Mariana envia formalmente para Maria revisar | proposta formal de mudança |
-| **REVIEW** | Maria avalia os ajustes de Mariana | revisão por quem pediu |
-| **REVERT** | Mariana desfaz só o filtro do mar, novo registro criado | desfaz uma mudança específica preservando histórico |
-| **MERGE CONFLICT** | Mariana e Julia mexeram no mesmo pedaço, Maria decide | duas mudanças contraditórias, decisão humana necessária |
-| **APPROVAL** | Maria aprova a foto | guardião autoriza entrada no MAIN |
-| **TAG** | Maria etiqueta "praia junho 2025" no álbum | marco nomeado numa versão |
-| **MERGE** | foto aprovada por Maria vira a oficial | versão aprovada entra no MAIN |
-| **CLONE** | João e Maria salvam cada um no próprio celular | cópia local da versão oficial |
-| **ROLLBACK** | Maria marca versão anterior como oficial, histórico intacto | restaura estado anterior como versão atual |
-| **FETCH** | Mariana avisa Maria que tem novidade, nada baixado ainda | verifica novidades sem aplicar |
-| **PULL** | Maria baixa e incorpora numa ação | busca e aplica novidades |
-| **HOTFIX** | Mariana remove sujeira na perna, fluxo reduzido mas rastreável | correção urgente pós-publicação com registro |
-| **FORK** | Julia cria álbum próprio e independente com o histórico completo | cópia completa sob nova governança |
-
----
+[![](https://substackcdn.com/image/fetch/$s_!k00Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9e0311a-18ec-47c7-8c55-e662f3cf7c47_1225x711.png)](https://substackcdn.com/image/fetch/$s_!k00Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9e0311a-18ec-47c7-8c55-e662f3cf7c47_1225x711.png)
 
 **Nota sobre Deploy:** Deploy aparece na história porque acontece de verdade — Maria manda a foto para a mãe. Mas pertence à execução, não ao versionamento. Por isso não integra a tabela de correlação da série, que mapeia o isomorfismo entre Git e governança. O conceito que fecha os 21 é Merge Conflict, descrito no Passo 10 dos 21 Passos.
 
@@ -316,15 +284,15 @@ A simplicidade é o último grau da sofisticação.
 
 A série está disponível nestes lugares:
 
-  * **LinkedIn**: <https://www.linkedin.com/pulse/artigo-alfa-voc%C3%AA-nunca-parte-do-zero-gustavo-jorge-alessandri-sk4yf>
+  * **LinkedIn:** <https://www.linkedin.com/pulse/artigo-alfa-voc%C3%AA-nunca-parte-do-zero-gustavo-jorge-alessandri-sk4yf>
 
   * **Codeberg:** <https://codeberg.org/openarchy/gitgov>
 
-  * **GitHub:** <https://github.com/openarchy/gitgov>
+  * **GitHub:** **<https://github.com/openarchy/gitgov>**
 
-  * **Medium:** <https://medium.com/@Polimata/artigo-alfa-voc%C3%AA-nunca-parte-do-zero-53b0252d2705>
+  * **Medium:** **<https://medium.com/@Polimata/artigo-alfa-voc%C3%AA-nunca-parte-do-zero-53b0252d2705>**
 
-  * **Substack**: <https://open.substack.com/pub/openarchy/p/artigo-alfa-voce-nunca-parte-do-zero>
+  * **Substack:** **<https://open.substack.com/pub/openarchy/p/artigo-alfa-voce-nunca-parte-do-zero>**
 
 
 É open source. O conteúdo está licenciado sob CC BY-SA 4.0: você pode ler, compartilhar, traduzir, adaptar e melhorar — desde que mantenha a atribuição e distribua derivados sob a mesma licença.
@@ -352,4 +320,6 @@ Se encontrar um erro, tiver uma ideia ou quiser propor uma melhoria, é só abri
   8. TORVALDS, Linus. Git: the information manager from hell. Mensagem publicada na lista de discussão **[git@vger.kernel.org](mailto:git@vger.kernel.org)** , 7 abr. 2005. Disponível em: **<https://lkml.org/lkml/2005/4/6/121>**. Acesso em: 1 mar. 2026.
 
   9. CHACON, Scott; STRAUB, Ben. _Pro Git_. 2. ed. Nova York: Apress, 2014. Disponível em: **<https://git-scm.com/book/en/v2>**. Acesso em: 1 mar. 2026.
+
+
 

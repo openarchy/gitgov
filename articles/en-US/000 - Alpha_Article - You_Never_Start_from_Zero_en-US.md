@@ -1,11 +1,4 @@
-# Alpha Article - You Never Start from Zero.
-
-Why do some people learn anything in months?  
-
-And others spend years doing exactly the same thing?
-
-It's not talent. It's a method, and it starts with understanding this: you never start from zero.
-
+[![](https://substackcdn.com/image/fetch/$s_!l6Ck!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f206a3c-18da-4cc6-a3b5-14f8cef8b161_2752x1536.png)](https://substackcdn.com/image/fetch/$s_!l6Ck!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f206a3c-18da-4cc6-a3b5-14f8cef8b161_2752x1536.png)
 
 ### **1\. How to use what you already know to learn anything faster**
 
@@ -245,31 +238,7 @@ Finally, Julia takes the photo, creates a complete copy under her own account, a
 
 ### **10\. The 21 concepts, side by side:**
 
-| Term | In the photo | In governance |
-| ----- | ----- | ----- |
-| **MAIN** | official version, destination of what was validated | official version of the system |
-| **ISSUE** | problem identified by Maria | issue to resolve |
-| **ASSIGN** | Maria designates Mariana | designates a responsible party |
-| **CONFIG** | Mariana registers identity and preferences in the editor | configures environment and identity |
-| **BRANCH** | separate copy on Mariana's device | local draft without touching the remote original |
-| **HOOKS** | automatic checks when saving | automatic verification actions in the workflow |
-| **COMMIT** | each of Mariana's adjustments recorded with authorship and reason | change described, signed, and saved |
-| **STASH** | filter Mariana pockets, temporary and volatile | volatile draft outside the current history |
-| **PULL REQUEST** | Mariana formally submits for Maria to review | formal proposal for change |
-| **REVIEW** | Maria evaluates Mariana's adjustments | review by the person who requested |
-| **REVERT** | Mariana undoes only the ocean filter, new record created | undoes a specific change preserving history |
-| **MERGE CONFLICT** | Mariana and Julia worked on the same piece, Maria decides | two contradictory changes, human decision required |
-| **APPROVAL** | Maria approves the photo | authorized gatekeeper approves entry to MAIN |
-| **TAG** | Maria labels "beach june 2025" in the album | named milestone at a specific version |
-| **MERGE** | Maria's approved photo becomes official | approved version enters MAIN |
-| **CLONE** | John and Maria each save to their own phones | local copy of the official version |
-| **ROLLBACK** | Maria marks previous version as official, history intact | restores previous state as current version |
-| **FETCH** | Mariana tells Maria there's something new, nothing downloaded yet | checks for updates without applying |
-| **PULL** | Maria downloads and incorporates in one action | fetches and applies updates |
-| **HOTFIX** | Mariana removes leg dirt, reduced but traceable flow | urgent post-publication correction with record |
-| **FORK** | Julia creates her own independent album with the full history | complete copy under new governance |
-
----
+[![](https://substackcdn.com/image/fetch/$s_!Mrfj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed8b9d49-c9a4-423d-a003-fb2dbefc755f_1233x695.png)](https://substackcdn.com/image/fetch/$s_!Mrfj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed8b9d49-c9a4-423d-a003-fb2dbefc755f_1233x695.png)
 
 **Note on Deploy:** Deploy appears in the story because it really happens - Maria sends the photo to her mother. But it belongs to execution, not to versioning. For that reason, it doesn’t appear in the series’ correlation table, which maps the isomorphism between Git and governance. The concept that closes the 21 is Merge Conflict, described in Step 10 of the 21 Steps.
 
@@ -355,3 +324,6 @@ If you find an error, have an idea, or want to propose an improvement, just open
   8. TORVALDS, Linus. Git: the information manager from hell. Message posted to the **[git@vger.kernel.org](mailto:git@vger.kernel.org)** mailing list, 7 Apr. 2005. Available at: **<https://lkml.org/lkml/2005/4/6/121>**. Accessed: 1 Mar. 2026.
 
   9. CHACON, Scott; STRAUB, Ben. _Pro Git_. 2nd ed. New York: Apress, 2014. Available at: **<https://git-scm.com/book/en/v2>**. Accessed: 1 Mar. 2026.
+
+
+

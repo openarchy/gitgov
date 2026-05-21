@@ -1,16 +1,20 @@
-# **Gobernanza como Versionamiento**
+[![](https://substackcdn.com/image/fetch/$s_!7PPQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5129b10-663a-4a0d-ab2e-d807dd246c2b_2454x1728.png)](https://substackcdn.com/image/fetch/$s_!7PPQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5129b10-663a-4a0d-ab2e-d807dd246c2b_2454x1728.png)
 
-## **Introducción: ¿Por qué existe esta serie?**
+La democracia no está rota. Solo dejó de evolucionar.
 
----
+¿Y si las decisiones colectivas pudieran ser auditables, reversibles y transparentes, como un repositorio Git?
+
+Una propuesta real, basada en más de 30 autores y 335 años de historia política. Comienza aquí la serie “Gobernanza como Versionamiento”.
+
+* * *
 
 **¿Qué vas a encontrar aquí?**
 
 Tres historias de origen (la impresora de Xerox, el estudiante finlandés en su cuarto, la herramienta creada en diez días) y la pregunta que las conecta a todas: si funcionó para el código, ¿por qué no funcionaría para las decisiones humanas?
 
----
+* * *
 
-### **1. Lo invisible revelado**
+### **1\. Lo invisible revelado**
 
 En este preciso momento, mientras lees estas palabras, algo invisible sostiene casi todo lo que hacés. Tu celular funciona porque existe un sistema operativo llamado Linux corriendo en los servidores que entregan tus mensajes, tus videos, tus pagos. Linux es un programa de computadora creado por voluntarios de todo el mundo, sin dueño, sin empresa detrás, sin jefe. Cualquier persona puede ver cómo funciona por dentro, modificar lo que quiera, distribuir su propia versión. Eso se llama código abierto (o software libre): un programa sin candado.
 
@@ -26,9 +30,9 @@ Nuestros sistemas de gobierno (asambleas, cámaras, consejos, asociaciones, coop
 
 Estamos intentando correr una aplicación de 2026 en una computadora de los años 80. Se congela. Se recalienta. No da abasto.
 
----
+* * *
 
-### **2. ¿Por qué existe esta serie?**
+### **2\. ¿Por qué existe esta serie?**
 
 Hay una tradición antigua de traducir ideas complicadas a un lenguaje que cualquier persona entienda. Voltaire usó cuentos para criticar el poder y la superstición. Montesquieu fingió ser un persa visitando Francia para revelar absurdos que los franceses ya no podían ver. Heródoto contaba historias de pueblos lejanos para enseñar sobre el suyo.
 
@@ -40,9 +44,9 @@ Para entender algo con profundidad, ayuda saber de dónde vino. Quien se despert
 
 Lo que el software libre descubrió en cuatro décadas puede ayudar a arreglar esos cimientos. No porque la tecnología resuelva todo (no lo hace), sino porque las lecciones de cómo miles de personas trabajan juntas sin jefe sirven para cualquier grupo humano que necesita tomar decisiones colectivas.
 
----
+* * *
 
-### **3. Las tres historias de origen**
+### **3\. Las tres historias de origen**
 
 **La impresora que no se podía reparar**
 
@@ -62,7 +66,7 @@ Helsinki, 1991. Linus Torvalds tenía 21 años y estudiaba Ciencias de la Comput
 
 En vez de quejarse, creó el suyo. Solo. En su cuarto. Como pasatiempo.
 
-El 25 de agosto publicó un mensaje en un foro en línea: "Estoy haciendo un sistema operativo libre. Solo un pasatiempo, no va a ser grande ni profesional." Publicó el código abierto. Cualquiera podía verlo, modificarlo, mejorarlo. Lo llamó Linux.
+El 25 de agosto publicó un mensaje en un foro en línea: “Estoy haciendo un sistema operativo libre. Solo un pasatiempo, no va a ser grande ni profesional.” Publicó el código abierto. Cualquiera podía verlo, modificarlo, mejorarlo. Lo llamó Linux.
 
 Lo que pasó sorprendió hasta al propio Torvalds. Desarrolladores de todo el mundo empezaron a colaborar. Corregían errores. Agregaban funciones. Mejoraban el rendimiento. Sin jefe. Sin empresa. Sin sueldo. Solo porque querían y podían.
 
@@ -78,13 +82,13 @@ Torvalds estaba furioso. De nuevo. Y de nuevo, en lugar de quejarse, actuó. En 
 
 La lección se repetía: cuando alguien cierra el acceso, la respuesta no es pedir permiso. Es construir algo que nadie pueda volver a cerrar.
 
-Raymond ya había escrito, en 1997, un ensayo que cambió la forma en que el mundo entendía el software libre: "La Catedral y el Bazar". En la catedral, un pequeño grupo diseña todo en secreto y lo entrega terminado. En el bazar, cualquier persona puede contribuir, revisar, mejorar. La catedral es hermosa pero frágil. El bazar es ruidoso, pero encuentra errores rápido. Raymond acuñó la frase que se convirtió en regla: "Con suficientes ojos, todos los errores son evidentes."
+Raymond ya había escrito, en 1997, un ensayo que cambió la forma en que el mundo entendía el software libre: “La Catedral y el Bazar”. En la catedral, un pequeño grupo diseña todo en secreto y lo entrega terminado. En el bazar, cualquier persona puede contribuir, revisar, mejorar. La catedral es hermosa pero frágil. El bazar es ruidoso, pero encuentra errores rápido. Raymond acuñó la frase que se convirtió en regla: “Con suficientes ojos, todos los errores son evidentes.”
 
 Git y Linux eran la prueba viva de que Raymond tenía razón.
 
----
+* * *
 
-### **4. Lo que une a los tres**
+### **4\. Lo que une a los tres**
 
 Tres hombres. Tres frustraciones. Tres respuestas que cambiaron el mundo sin pedirle permiso a nadie.
 
@@ -98,9 +102,9 @@ Y funcionó. No solo funcionó: superó todo lo que vino antes. El mundo digital
 
 Casi nadie sabe. Pero vos ya sabés.
 
----
+* * *
 
-### **5. Por qué esto te importa**
+### **5\. Por qué esto te importa**
 
 Quizás estás pensando: muy bien para el software. Pero ¿qué tiene que ver con mi vida, con mi consorcio, con mi cooperativa, con mi ciudad?
 
@@ -114,9 +118,9 @@ Si el código abierto demostró que la apertura no es debilidad (es un mecanismo
 
 La respuesta es simple: porque nadie juntó las piezas. Todavía.
 
----
+* * *
 
-### **6. Estructura de la serie y lo que viene a continuación**
+### **6\. Estructura de la serie y lo que viene a continuación**
 
 Esta serie tiene 21 artículos en el núcleo, más un prefacio, una introducción, una conclusión y un posfacio. Este texto que leíste es la introducción: la base sobre la que descansa todo lo demás. Después vienen 21 artículos, cada uno dedicado a un pensador que agrega una pieza al rompecabezas. Y una conclusión que abre la puerta a lo que sigue.
 
@@ -132,16 +136,31 @@ Parece obvio hoy. En 1689, era el tipo de frase que podía costarle la cabeza a 
 
 Locke no lo sabía, pero acababa de inventar la primera reversión (revert) de la historia política.
 
----
+* * *
 
-### **7. Referencias**
+Artículos anteriores, prefacio, introducción y documentación completa disponibles aquí:
 
-1. STALLMAN, Richard. **Free Software, Free Society: Selected Essays of Richard M. Stallman**. Boston: Free Software Foundation, 2002.
+<https://codeberg.org/openarchy/gitgov>
 
-2. RAYMOND, Eric S. **La catedral y el bazar**. Traducción de Javier Candeira et al. Disponível em: http://www.catb.org/esr/writings/cathedral-bazaar/. Acesso em: fev. 2026.
+<https://github.com/openarchy/gitgov>
 
-3. TORVALDS, Linus; DIAMOND, David. **Just for Fun: The Story of an Accidental Revolutionary**. New York: HarperBusiness, 2001. (Sin edición en español disponible.)
+Todo el contenido es completamente open source y accesible para todos. Licenciado bajo CC BY-SA 4.0: puedes leer, compartir, traducir, adaptar y mejorar — siempre que mantengas la atribución y distribuyas los derivados bajo la misma licencia.
 
-4. WEBER, Steven. **The Success of Open Source**. Cambridge: Harvard University Press, 2004. (Sin edición en español disponible.)
+Si encuentras un error, tienes una idea o quieres proponer una mejora, abre un issue o haz un fork en Codeberg o GitHub. Las contribuciones son bienvenidas. Esa es exactamente la idea.
 
-5. GLEICK, James. **La información: una historia, una teoría, un diluvio**. Traducción de Pedro Cifuentes. Barcelona: Crítica, 2012.
+* * *
+
+### **7\. Referencias**
+
+  1. STALLMAN, Richard. **Free Software, Free Society: Selected Essays of Richard M. Stallman**. Boston: Free Software Foundation, 2002.
+
+  2. RAYMOND, Eric S. **La catedral y el bazar**. Traducción de Javier Candeira et al. Disponível em: <http://www.catb.org/esr/writings/cathedral-bazaar/>. Acesso em: fev. 2026.
+
+  3. TORVALDS, Linus; DIAMOND, David. **Just for Fun: The Story of an Accidental Revolutionary**. New York: HarperBusiness, 2001. (Sin edición en español disponible.)
+
+  4. WEBER, Steven. **The Success of Open Source**. Cambridge: Harvard University Press, 2004. (Sin edición en español disponible.)
+
+  5. GLEICK, James. **La información: una historia, una teoría, un diluvio**. Traducción de Pedro Cifuentes. Barcelona: Crítica, 2012.
+
+
+

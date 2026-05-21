@@ -1,22 +1,22 @@
-# **John Locke**
+[![](https://substackcdn.com/image/fetch/$s_!wlw7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc7e7289-6d57-4eba-83e1-0a267ec61ff6_660x350.png)](https://substackcdn.com/image/fetch/$s_!wlw7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc7e7289-6d57-4eba-83e1-0a267ec61ff6_660x350.png)
+Poder sem mecanismo de correção é tirania. Locke descreveu isso em 1689. Ainda ignoramos a lição.
+### **O Revert Original**
 
-# **O Revert Original**
+#### Artigo 01 de 21 da série “Governança como Versionamento”.
 
-## **Artigo 01 de 21 da série "Governança como Versionamento".**
+* * *
 
----
+> **O que você vai encontrar aqui?**
+> 
+> Você já participou de uma decisão que não podia ser desfeita? Uma assembleia que aprovou algo por maioria, mas sem mecanismo nenhum para corrigir se desse errado? Uma diretoria que mudou as regras no meio do jogo e ninguém sabia como contestar?
+> 
+> Esse problema tem 335 anos. E alguém já propôs a solução.
 
-**O que você vai encontrar aqui?**
-
-Você já participou de uma decisão que não podia ser desfeita? Uma assembleia que aprovou algo por maioria, mas sem mecanismo nenhum para corrigir se desse errado? Uma diretoria que mudou as regras no meio do jogo e ninguém sabia como contestar?
-
-Esse problema tem 335 anos. E alguém já propôs a solução.
-
----
+* * *
 
 ## **1\. Onde tudo começa**
 
-Londres, inverno de 1689\. O rei Jaime II acabou de fugir para a França. Ninguém chorou.
+Londres, inverno de 1689. O rei Jaime II acabou de fugir para a França. Ninguém chorou.
 
 Durante anos, ele governou como monarca absoluto. Ignorou o Parlamento. Perseguiu protestantes. Nomeou aliados para cargos de poder. Quando o povo reclamava, a resposta era silêncio ou espada.
 
@@ -30,7 +30,7 @@ Ninguém tinha resposta. Exceto um homem de 57 anos, recém-chegado do exílio n
 
 O livro se chamava “Dois Tratados sobre o Governo”. E a tese era uma bomba: governos não caem do céu. São criados por pessoas. E pessoas podem desfazê-los.
 
----
+* * *
 
 ## **2\. Contexto histórico**
 
@@ -42,7 +42,7 @@ Locke achou. E decidiu que era hora de dizer por quê.
 
 Ele não era revolucionário de barricada. Era médico, filósofo, conselheiro político. Tinha vivido na sombra do poder e visto de perto como funcionava. Sabia que ideias erradas sustentam sistemas inteiros?
 
----
+* * *
 
 ## **3\. A ideia central**
 
@@ -62,7 +62,7 @@ Mas o governo não tem cheque em branco. O poder vem de baixo para cima. As pess
 
 Antes de Locke, a lógica era “obedeça porque Deus quis”. Depois de Locke, a lógica virou “obedeça enquanto servir”. A diferença entre as duas frases é a diferença entre súdito e cidadão.
 
----
+* * *
 
 ## **4\. Desdobramentos**
 
@@ -84,7 +84,7 @@ Solução: dividir. Locke propôs separar quem faz as leis (Legislativo), de que
 
 Montesquieu refinaria isso depois, adicionando o Judiciário. Mas a semente é de Locke: concentração é perigo, distribuição é proteção. Essa lógica aparece intacta nos 21 passos: ninguém aprova o próprio trabalho (Passo 12). Sempre outro par de olhos.
 
----
+* * *
 
 ## **5\. Legado histórico**
 
@@ -94,7 +94,7 @@ A Revolução Francesa (1789) bebeu da mesma fonte. A Declaração dos Direitos 
 
 Constituições do mundo inteiro carregam as digitais de Locke: separação de poderes, soberania popular, direitos que existem antes de qualquer lei. Brasil, Portugal, Alemanha, África do Sul, Índia. Locke não inventou democracia, mas deu a ela sua justificativa moderna.
 
----
+* * *
 
 ## **6\. Contradições e limitações**
 
@@ -104,7 +104,7 @@ Locke defendia liberdade, igualdade, direitos naturais. Mas investiu na Royal Af
 
 Isso ensina algo que a própria série defende: ótimas ideias não garantem boa prática. O sistema precisa de revisão constante, inclusive (e especialmente) de quem o criou. Se Locke tivesse sido submetido a review por pares com a diversidade que faltou ao seu tempo, a contradição teria aparecido antes.
 
----
+* * *
 
 ## **7\. A tradução para versionamento**
 
@@ -112,9 +112,9 @@ Locke nunca viu um computador. Morreu em 1704, três séculos antes do Git exist
 
 Antes de entrar nos paralelos, uma objeção legítima: isso funciona em software, onde as regras são código e o histórico é automático. Governança é feita de pessoas, de política, de interesses. Como um sistema pensado para arquivos de texto resolve isso?
 
-A resposta está no mecanismo, não no meio. O que o Git faz com arquivos, os 21 passos fazem com decisões: registram quem propôs, quando e com qual justificativa. Tornam o histórico visível. Permitem desfazer. A tecnologia muda. O princípio é o mesmo que Locke descreveu em 1689\.
+A resposta está no mecanismo, não no meio. O que o Git faz com arquivos, os 21 passos fazem com decisões: registram quem propôs, quando e com qual justificativa. Tornam o histórico visível. Permitem desfazer. A tecnologia muda. O princípio é o mesmo que Locke descreveu em 1689.
 
-**Rebelião é revert (mecanismo de correção).** Locke disse: se o governo quebra o contrato, o povo pode desfazê-lo. Não é caos, não é anarquia. É um mecanismo legítimo de correção. No Git, revert (Passo 15\) faz exatamente isso: desfaz uma decisão específica que deu errado, sem destruir o histórico. Locke inventou o revert político 316 anos antes de Torvalds inventar o revert técnico. Este artigo tem o nome que tem por essa razão.
+**Rebelião é revert (mecanismo de correção).** Locke disse: se o governo quebra o contrato, o povo pode desfazê-lo. Não é caos, não é anarquia. É um mecanismo legítimo de correção. No Git, revert (Passo 15) faz exatamente isso: desfaz uma decisão específica que deu errado, sem destruir o histórico. Locke inventou o revert político 316 anos antes de Torvalds inventar o revert técnico. Este artigo tem o nome que tem por essa razão.
 
 **Passo 15 — Revert:** Locke disse que poder sem mecanismo de desfazer é tirania. No sistema dos 21 Passos, revert é esse mecanismo: você desfaz uma decisão específica sem apagar o histórico do que aconteceu. Consentimento não é definitivo, é contínuo. Quando o acordo falha, há como voltar atrás. A legitimidade se reconstrói pelo processo, não pelo decreto.
 
@@ -126,7 +126,7 @@ A resposta está no mecanismo, não no meio. O que o Git faz com arquivos, os 21
 
 Alerta de vigilância: até sistemas abertos podem trair Locke. Se um grupo pequeno controla quem pode fazer merge, quem pode abrir issue, quem tem permissão de fork, o consentimento dos governados virou ficção. O sistema parece aberto, mas opera como monarquia absoluta com interface bonita.
 
----
+* * *
 
 ## **8\. Implicação prática**
 
@@ -136,9 +136,9 @@ O que os barões inventaram em 1215 é o mecanismo que Locke descreveria 474 ano
 
 Imagine agora uma associação de bairro que decide tudo em reunião presencial, às terças, às 19h. Quem trabalha à noite nunca participa. Quem mora longe, idem. As decisões são tomadas por quem aparece, não por quem é afetado.
 
-Se essa associação adotasse o princípio de Locke (consentimento dos governados), precisaria garantir que todos pudessem ver as decisões (Passo 1), propor mudanças (Passo 9\) e contestar decisões ruins (Passo 15). A reunião presencial não desaparece, mas deixa de ser o único canal.
+Se essa associação adotasse o princípio de Locke (consentimento dos governados), precisaria garantir que todos pudessem ver as decisões (Passo 1), propor mudanças (Passo 9) e contestar decisões ruins (Passo 15). A reunião presencial não desaparece, mas deixa de ser o único canal.
 
----
+* * *
 
 ## **9\. Lições aprendidas**
 
@@ -152,7 +152,7 @@ Propriedade (ou autoria) vem do trabalho visível, não do cargo ou do título. 
 
 Até o criador de um sistema pode contradizer seus próprios princípios. O sistema precisa funcionar apesar das falhas de quem o criou.
 
----
+* * *
 
 ## **10\. Explorando caminhos e conexões.**
 
@@ -168,13 +168,31 @@ Locke não tinha resposta para isso. Mas, em 1945, um filósofo austríaco refug
 
 Seu nome era Karl Popper. E ele vai nos mostrar que a pergunta certa não é “quem deve governar?”, mas “como nos livramos de governantes ruins sem derramamento de sangue?”.
 
----
+* * *
+
+Artigos anteriores, prefácio, introdução e documentação completa estão disponíveis nestes lugares:
+
+<https://codeberg.org/openarchy/gitgov>
+
+<https://github.com/openarchy/gitgov>
+
+Todo o conteúdo é totalmente open source e acessível a todos.  
+  
+O conteúdo está licenciado sob CC BY-SA 4.0: você pode ler, compartilhar, traduzir, adaptar e melhorar — desde que mantenha a atribuição e distribua derivados sob a mesma licença.  
+  
+Se encontrar um erro, tiver uma ideia ou quiser propor uma melhoria, é só abrir uma issue ou fazer um fork no Codeberg ou no GitHub. Contribuições são bem-vindas. Essa é exatamente a ideia.
+
+* * *
 
 ## **11\. Referências**
 
-1. HOLT, James Clarke. **Magna Carta**. 2\. ed. Cambridge: Cambridge University Press, 1992\.  
-2. LOCKE, John. **Two Treatises of Government**. London: Awnsham Churchill, 1689\. (Edição brasileira: Dois Tratados sobre o Governo. São Paulo: Martins Fontes, 1998.)  
-3. LASLETT, Peter. **Introduction to Locke’s Two Treatises of Government**. Cambridge: Cambridge University Press, 1988\.  
-4. DUNN, John. **Locke: A Very Short Introduction**. Oxford: Oxford University Press, 2003\.  
-   
+  1. HOLT, James Clarke. **Magna Carta**. 2. ed. Cambridge: Cambridge University Press, 1992.
+
+  2. LOCKE, John. **Two Treatises of Government**. London: Awnsham Churchill, 1689. (Edição brasileira: Dois Tratados sobre o Governo. São Paulo: Martins Fontes, 1998.)
+
+  3. LASLETT, Peter. **Introduction to Locke’s Two Treatises of Government**. Cambridge: Cambridge University Press, 1988.
+
+  4. DUNN, John. **Locke: A Very Short Introduction**. Oxford: Oxford University Press, 2003.
+
+
 

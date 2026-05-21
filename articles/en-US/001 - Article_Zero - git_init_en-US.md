@@ -1,21 +1,20 @@
-# **Governance as Versioning**
-
-## **Article Zero: Git Init**
+[![](https://substackcdn.com/image/fetch/$s_!9rbt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa25b76e8-6a4b-4c91-9635-2fcbb2b50373_2816x1536.png)](https://substackcdn.com/image/fetch/$s_!9rbt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa25b76e8-6a4b-4c91-9635-2fcbb2b50373_2816x1536.png)
 
 ### **Democracy, Power, and the Memory That Does Not Lie**
 
-*How democracies die from within, what this has to do with technology, and why versioned governance changes the rules of the game*
+ _How democracies die from within, what this has to do with technology, and why versioned governance changes the rules of the game_
 
-*This is the Article Zero . It does not belong to the official count of the twenty-one. It exists before the series as political context: to show the concrete problem from the point of view of someone who spent three decades seeing the same architectural flaw in data systems before recognizing it in systems of power. The Governance as Versioning series officially begins with Article One, on John Locke (1689), the first of twenty-one thinkers who — each in their own time — described, without naming it, the logic that Git would later formalize. Reading the Article Zero is not a prerequisite. Each text in the series works on its own. But whoever has read this one starts the journey knowing why the journey exists.*
+ _This is the Article Zero . It does not belong to the official count of the twenty-one. It exists before the series as political context: to show the concrete problem from the point of view of someone who spent three decades seeing the same architectural flaw in data systems before recognizing it in systems of power. The Governance as Versioning series officially begins with Article One, on John Locke (1689), the first of twenty-one thinkers who — each in their own time — described, without naming it, the logic that Git would later formalize. Reading the Article Zero is not a prerequisite. Each text in the series works on its own. But whoever has read this one starts the journey knowing why the journey exists._
 
----
+* * *
 
 ## **Democracy is Architecture**
+
 Have you ever attended a meeting where the decision had already been made before it started?
 
 Or voted in an assembly where, weeks later, nobody could quite remember what had been decided, or why?
 
-That's not a failure of memory. It's a failure of architecture.
+That’s not a failure of memory. It’s a failure of architecture.
 
 The problem is not who wins elections. It is what the system allows winners to do after they win.
 
@@ -25,7 +24,7 @@ But democracy is not an argument. It is architecture.
 
 And every architecture produces exactly the results its design allows.
 
-If rules can be stretched without cost, they will be. If decisions leave no comparable trace, memory dissolves. If the price of abuse is lower than the price of oversight, abuse becomes rational. Not because of anyone's malice. Because of structural logic.
+If rules can be stretched without cost, they will be. If decisions leave no comparable trace, memory dissolves. If the price of abuse is lower than the price of oversight, abuse becomes rational. Not because of anyone’s malice. Because of structural logic.
 
 Democracies rarely disappear all at once. They continue existing on paper while their practice changes silently. Small alterations accumulate. Interpretations expand. Exceptions become precedents. What was a limit becomes elasticity.
 
@@ -51,7 +50,7 @@ If democracies are systems, they can be analyzed as systems. If they can be anal
 
 What follows is not an ideological manifesto. It is an infrastructure proposal. And infrastructure determines destiny.
 
----
+* * *
 
 ## **Who writes this and why it should matter**
 
@@ -67,7 +66,7 @@ We are not talking about technology. We are talking about a mental model: real t
 
 That is why I write this series. Not to give a definitive answer. To translate, from technical language into human language, what 335 years of thought have already discovered about how systems that work differ from systems that merely survive.
 
----
+* * *
 
 ## **What this series covers**
 
@@ -77,7 +76,7 @@ The arc of the series is detailed in the preface and introduction. What matters 
 
 This Article Zero does not belong to the official count. It exists before the series as political context: to show the concrete problem from the point of view of someone who spent three decades seeing the same architectural flaw in data systems before recognizing it in systems of power.
 
----
+* * *
 
 ## **What a systems autodidact sees**
 
@@ -91,9 +90,9 @@ The answer arrived in 1789. Not merely as an event, but as an architectural mile
 
 And it was brilliant for its time. The problem is that at that time it used paper, ink, and months of waiting to circulate a decision.
 
-In IT, we call what happens after decades without updating technical debt: decisions that solved yesterday's problem but block tomorrow's. Complexity grows. Readability falls. Errors become accepted routine. The system's incentives begin to diverge from the objectives it was created to serve. Not because of malice. Because of structural inertia. In democracy, we call that same phenomenon institutional crisis.
+In IT, we call what happens after decades without updating technical debt: decisions that solved yesterday’s problem but block tomorrow’s. Complexity grows. Readability falls. Errors become accepted routine. The system’s incentives begin to diverge from the objectives it was created to serve. Not because of malice. Because of structural inertia. In democracy, we call that same phenomenon institutional crisis.
 
----
+* * *
 
 ## **When the logistics of 1789 became the dogma of 2026**
 
@@ -105,7 +104,7 @@ This inversion has a name in software engineering: cargo cult. You maintain the 
 
 What the French Revolution promises still holds: limit power, guarantee that it must justify itself, create mechanisms of alternation. The promise of 1789 remains legitimate. What did not accompany the promise was the infrastructure of 1789.
 
----
+* * *
 
 ## **When complexity is the product, not the problem**
 
@@ -115,7 +114,7 @@ Incomprehensible legislation is not the result of negligence. It is the result o
 
 The data confirms the outcome. According to the OECD, in 2025 trust in government in Latin America and the Caribbean was around thirty-five to thirty-eight percent.⁴ This is not cultural cynicism. It is a rational evaluation of a system that lost readability and with it lost legitimacy.
 
----
+* * *
 
 ## **Updating without reinventing**
 
@@ -125,21 +124,21 @@ There are examples working now. In Montreal, between 2024 and 2025, more than 88
 
 The question is not whether it is possible to update. It is why we have not done this at scale.
 
----
+* * *
 
 ## **The diagnosis: how democracies die from within**
 
 Imagine a safe. Inside it are the rules that protect your democracy. You think only a bomb can force it open. But Steven Levitsky, a political scientist at Harvard University, discovered something disturbing: most modern democracies are not destroyed by bombs. They are destroyed by people who have the key.
 
-In *How Democracies Die* (2018),¹ written with Daniel Ziblatt, Levitsky demonstrated that the greatest danger is not the general with tanks in the street. It is the elected politician with a smile on their face. Hitler was elected. Chávez was elected. Erdoğan, Putin, Orbán, Fujimori: all came to power by vote. Then, using laws, decrees, and perfectly legal processes, they dismantled the mechanisms that limited their power. It was not a coup. It was an erosion. Slow. Almost invisible.
+In _How Democracies Die_ (2018),¹ written with Daniel Ziblatt, Levitsky demonstrated that the greatest danger is not the general with tanks in the street. It is the elected politician with a smile on their face. Hitler was elected. Chávez was elected. Erdoğan, Putin, Orbán, Fujimori: all came to power by vote. Then, using laws, decrees, and perfectly legal processes, they dismantled the mechanisms that limited their power. It was not a coup. It was an erosion. Slow. Almost invisible.
 
 What sustains a democracy is not just written laws. It is two invisible behaviors that people simply assume exist: mutual toleration — the recognition that the political adversary is legitimate and not an enemy to be eliminated — and institutional forbearance, the choice not to use all available power just because you can. When these behaviors disappear, the system collapses formally intact.
 
-In *Tyranny of the Minority* (2023),² Levitsky goes further: many modern democracies are dominated by organized minorities that have learned to use the system's own rules to neutralize the majority. The game still exists. The rules were rewritten from the inside.
+In _Tyranny of the Minority_ (2023),² Levitsky goes further: many modern democracies are dominated by organized minorities that have learned to use the system’s own rules to neutralize the majority. The game still exists. The rules were rewritten from the inside.
 
 The central problem that Levitsky identifies — and does not completely resolve — is this: democracies depend on invisible norms and the good faith of actors. But culture changes. Tradition erodes. Coalitions dissolve. When this happens, there is no technical protection mechanism. Only human behavior stands between the system and collapse.
 
----
+* * *
 
 ## **The command that initiates everything**
 
@@ -147,21 +146,21 @@ Before any theory, a concrete image.
 
 Imagine that you and a group of friends decide to build something together: a community house, a collective garden, or even rules for a neighborhood without a property manager. At the start, everything is a mess: loose papers, lost ideas, nobody knows who changed what. This is exactly where `git init` comes in.
 
-`git init` is a computer command — an instruction you type in an empty folder (or one with your files) that transforms that folder into a place with memory. Git (a free version control program created by Linus Torvalds in 2005) creates a hidden folder called `.git`, which works like a secret diary: it records everything that happens from that point forward. Each change becomes a record called a commit (an English word meaning "to commit to a decision"). You can go back in time if you make a mistake. You can create parallel paths called branches — like forks in a road — without ruining the main path. It is the birth of collective control: without a central boss, but with rules that everyone follows.
+`git init` is a computer command — an instruction you type in an empty folder (or one with your files) that transforms that folder into a place with memory. Git (a free version control program created by Linus Torvalds in 2005) creates a hidden folder called `.git`, which works like a secret diary: it records everything that happens from that point forward. Each change becomes a record called a commit (an English word meaning “to commit to a decision”). You can go back in time if you make a mistake. You can create parallel paths called branches — like forks in a road — without ruining the main path. It is the birth of collective control: without a central boss, but with rules that everyone follows.
 
 But there is something deeper in this image.
 
 Imagine now a ship at sea. Before `git init`, there is no helm, no map, no logbook. After it, three layers come into operation.
 
-**Governance** becomes the helmsman who defines route and rules: the greater purpose, the "where are we going." The word comes from ancient Greek *kybernan*, meaning exactly "to pilot or steer a ship." Plato used the idea to talk about guiding entire cities. It passed into Latin as *gubernare*, then into English as governance: the process of steering with clear rules, at the highest, strategic level.
+**Governance** becomes the helmsman who defines route and rules: the greater purpose, the “where are we going.” The word comes from ancient Greek _kybernan_ , meaning exactly “to pilot or steer a ship.” Plato used the idea to talk about guiding entire cities. It passed into Latin as _gubernare_ , then into English as governance: the process of steering with clear rules, at the highest, strategic level.
 
-**Management** is the immediate that adjusts sails and shifts day to day: it plans, coordinates, transforms the defined destination into real plans. It derives from Latin *gerere*, meaning "to carry, do, execute." Management is the "how" and "when" to do things well, at the tactical, medium-term level.
+**Management** is the immediate that adjusts sails and shifts day to day: it plans, coordinates, transforms the defined destination into real plans. It derives from Latin _gerere_ , meaning “to carry, do, execute.” Management is the “how” and “when” to do things well, at the tactical, medium-term level.
 
-**Administration** takes care of the clean deck, the paid accounts, the daily record: it executes and notes in the short term, with routine and detail. It comes from Latin *ministrare*, meaning "to serve." The prefix *ad* ("toward") indicates it is delegated: someone executing on behalf of whoever decides. It is the operational level.
+**Administration** takes care of the clean deck, the paid accounts, the daily record: it executes and notes in the short term, with routine and detail. It comes from Latin _ministrare_ , meaning “to serve.” The prefix _ad_ (”toward”) indicates it is delegated: someone executing on behalf of whoever decides. It is the operational level.
 
-In decentralized human groups — those that function without complex technology — `git init` is equivalent to a simple and solemn agreement: "Today we begin recording agreements, changes, and reasons. Nobody erases the past without consensus." It is the absolute zero of versioned governance methodology: the initial commit that enables peaceful forks (groups that split off taking the entire history with them), collective rollbacks (decisions that are formally reversed), and eternal audit (anyone can check what was decided and by whom).
+In decentralized human groups — those that function without complex technology — `git init` is equivalent to a simple and solemn agreement: “Today we begin recording agreements, changes, and reasons. Nobody erases the past without consensus.” It is the absolute zero of versioned governance methodology: the initial commit that enables peaceful forks (groups that split off taking the entire history with them), collective rollbacks (decisions that are formally reversed), and eternal audit (anyone can check what was decided and by whom).
 
----
+* * *
 
 ## **The proposal: governance as auditable memory**
 
@@ -169,7 +168,7 @@ This is where the question changes in nature.
 
 If democracies depend on invisible norms, what happens when those norms become visible? Recorded, versioned, auditable by anyone, at any time?
 
-In software development, this problem was solved decades ago. The principle is simple: each change generates a permanent record. You can compare versions, identify authors, revert decisions. The system does not depend on anyone's good memory. It depends on the history.
+In software development, this problem was solved decades ago. The principle is simple: each change generates a permanent record. You can compare versions, identify authors, revert decisions. The system does not depend on anyone’s good memory. It depends on the history.
 
 Versioned governance applies this logic to the collective decision-making process. It does not replace politics with code. It does not automate democracy. It changes the structural cost of abuse.
 
@@ -177,7 +176,7 @@ Violating rules invisibly is cheap. Violating rules while leaving a permanent tr
 
 Gradual erosion depends on invisibility. With versioning, you can compare any version of a rule with any earlier version. Patterns of power concentration that would be invisible without assistance become detectable before they consolidate.
 
----
+* * *
 
 ## **The honest critique, without softening**
 
@@ -187,7 +186,7 @@ Real attacks occur through psychological manipulation, propaganda, economic coer
 
 Versioned governance solves the problem of ignorance — not completely the problem of power. It transforms invisible abuse into visible abuse. That is a massive and genuine improvement. It is not invulnerability.
 
----
+* * *
 
 ## **The architecture that makes this possible**
 
@@ -195,9 +194,9 @@ The honest premise: the system will be attacked, captured, and pressured. The go
 
 Eight layers form this architecture: an anchor of rules that do not change by simple majority; a permanent log of decisions with author, date, and reason; parallel lines where groups test proposals without affecting the main system; forking — the capacity of any group to copy the complete history and continue independently; approval in multiple independent dimensions; a waiting period before critical changes take effect; reputation based on verifiable history, not narrative; automated monitoring that detects suspicious patterns.
 
-Nassim Taleb coined the term *antifragile* for systems that not only resist shocks but improve with them.³ Well-built versioned governance has this property. Attacks generate better forks. Capture attempts generate alerts. Errors are recorded and become incorporated learning.
+Nassim Taleb coined the term _antifragile_ for systems that not only resist shocks but improve with them.³ Well-built versioned governance has this property. Attacks generate better forks. Capture attempts generate alerts. Errors are recorded and become incorporated learning.
 
----
+* * *
 
 ## **What really changes**
 
@@ -207,7 +206,7 @@ Versioned governance does for systems of power what accounting did for commerce.
 
 Democracies do not die because they are overthrown. They die because they are abandoned. And a system that records everything makes abandonment much harder to pretend never happened.
 
----
+* * *
 
 ## **Why this text exists before the series**
 
@@ -217,30 +216,34 @@ Reading this Article Zero is not a prerequisite. Each text in the series works o
 
 The series begins in 1689 — one hundred years before the French Revolution — with John Locke and what he called the right to resist illegitimate power. At the time, saying that in public cost you your head. Today it still costs something. But now we have tools he did not have.
 
----
+* * *
 
 ## **References**
 
-CHACON, S.; STRAUB, B. *Pro Git*. 2nd ed. New York: Apress, 2014. Available at: <https://git-scm.com/book/en/v2>. Accessed: February 24, 2026.
+CHACON, S.; STRAUB, B. _Pro Git_. 2nd ed. New York: Apress, 2014. Available at: <https://git-scm.com/book/en/v2>. Accessed: February 24, 2026.
 
-INSTITUTO BRASILEIRO DE GOVERNANÇA CORPORATIVA. *Código das melhores práticas de governança corporativa*. 5th ed. São Paulo: IBGC, 2015. (No English edition available.)
+INSTITUTO BRASILEIRO DE GOVERNANÇA CORPORATIVA. _Código das melhores práticas de governança corporativa_. 5th ed. São Paulo: IBGC, 2015. (No English edition available.)
 
-LEVITSKY, Steven; ZIBLATT, Daniel. *How Democracies Die*. New York: Crown, 2018.
+LEVITSKY, Steven; ZIBLATT, Daniel. _How Democracies Die_. New York: Crown, 2018.
 
-LEVITSKY, Steven; ZIBLATT, Daniel. *Tyranny of the Minority: Why American Democracy Reached the Breaking Point*. New York: Crown, 2023.
+LEVITSKY, Steven; ZIBLATT, Daniel. _Tyranny of the Minority: Why American Democracy Reached the Breaking Point_. New York: Crown, 2023.
 
-MICHAELIS. *Dicionário Brasileiro da Língua Portuguesa*. Governança; Gestão; Administração. Available at: <https://michaelis.uol.com.br>. Accessed: February 24, 2026. (No English edition available.)
+MICHAELIS. _Dicionário Brasileiro da Língua Portuguesa_. Governança; Gestão; Administração. Available at: 
 
-OECD. *Government at a Glance Latin America and the Caribbean*. Paris: OECD Publishing, 2025.
+https://michaelis.uol.com.br
+
+. Accessed: February 24, 2026. (No English edition available.)
+
+OECD. _Government at a Glance Latin America and the Caribbean_. Paris: OECD Publishing, 2025.
 
 ORIGEM DA PALAVRA. Governança. Available at: <https://origemdapalavra.com.br/palavras/governanca>. Accessed: February 24, 2026. (No English edition available.)
 
-TALEB, Nassim Nicholas. *Antifragile: Things That Gain from Disorder*. New York: Random House, 2012.
+TALEB, Nassim Nicholas. _Antifragile: Things That Gain from Disorder_. New York: Random House, 2012.
 
-TRIBUNAL DE CONTAS DA UNIÃO. *Referencial básico de governança organizacional*. 3rd ed. Brasília: TCU, 2020. (No English edition available.)
+TRIBUNAL DE CONTAS DA UNIÃO. _Referencial básico de governança organizacional_. 3rd ed. Brasília: TCU, 2020. (No English edition available.)
 
-WIKIPÉDIA. Governança. Available at: <https://pt.wikipedia.org/wiki/Governança>. Accessed: February 24, 2026. (No English edition available.)
+WIKIPÉDIA. Governança. Available at: [https://pt.wikipedia.org/wiki/Governança](https://pt.wikipedia.org/wiki/Governan%C3%A7a). Accessed: February 24, 2026. (No English edition available.)
 
----
+* * *
 
-*\* `git init` is the command that creates a repository from scratch — the first act before any version exists. Here: the text that initializes the conceptual repository of the series.*
+_*_`git init` _is the command that creates a repository from scratch — the first act before any version exists. Here: the text that initializes the conceptual repository of the series._

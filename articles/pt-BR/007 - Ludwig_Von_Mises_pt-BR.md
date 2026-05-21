@@ -1,22 +1,24 @@
-# **Ludwig von Mises**
+[![](https://substackcdn.com/image/fetch/$s_!AheW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf8f5200-a7c2-4d10-99b2-055c36f9ea68_3600x2798.png)](https://substackcdn.com/image/fetch/$s_!AheW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf8f5200-a7c2-4d10-99b2-055c36f9ea68_3600x2798.png)
+
+Mises explicou esse mecanismo setenta anos antes de ele se tornar a espinha dorsal da internet e da vida digital.
 
 # **A ordem que ninguém desenhou.**
 
-## **Artigo 04 de 21 da série "Governança como Versionamento".**
+## **Artigo 04 de 21 da série “Governança como Versionamento”.**
 
----
+* * *
 
-**O que você vai encontrar aqui?**
+> **O que você vai encontrar aqui?**
+> 
+> Você já tentou organizar um grupo que funcionava bem sem reunião de diretoria, sem regimento interno, sem ninguém mandando de verdade? E ficou se perguntando como aquilo era possível.
+> 
+> Mises passou a vida inteira explicando esse fenômeno. E a resposta que encontrou era tão simples que a maioria das pessoas se recusava a acreditar.
 
-Você já tentou organizar um grupo que funcionava bem sem reunião de diretoria, sem regimento interno, sem ninguém mandando de verdade? E ficou se perguntando como aquilo era possível.
-
-Mises passou a vida inteira explicando esse fenômeno. E a resposta que encontrou era tão simples que a maioria das pessoas se recusava a acreditar.
-
----
+* * *
 
 ## **1\. Onde tudo começa.**
 
-Nova York, outono de 1949\. Um austríaco de 67 anos entrega ao editor um manuscrito de novecentas páginas. Sem equações. Sem gráficos. Sem uma tabela sequer. O título: Human Action (Ação Humana).
+Nova York, outono de 1949. Um austríaco de 67 anos entrega ao editor um manuscrito de novecentas páginas. Sem equações. Sem gráficos. Sem uma tabela sequer. O título: Human Action (Ação Humana).
 
 Ludwig von Mises não era ingênuo. Sabia que o livro cairia em um ambiente hostil. John Maynard Keynes dominava as universidades. O consenso era claro: governos devem planejar, intervir, regular. Economistas que discordavam eram relíquias. Mises era a mais teimosa delas.
 
@@ -28,25 +30,25 @@ Ele morreu em 1973, aos 92 anos, convicto de que havia fracassado.
 
 Estava errado. Sobre o fracasso, não sobre a teoria. Porque a teoria, silenciosamente, já tinha conquistado o mundo. Não pelas universidades. Pela prática. Todo sistema que funciona sem chefe central (o Linux, a Wikipédia, a língua portuguesa, o preço do tomate na feira) funciona exatamente como Mises descreveu. Ordem sem organizador. Coordenação sem coordenador. Complexidade nascida de simplicidade.
 
----
+* * *
 
 ## **2\. Contexto histórico**
 
 O mundo de 1949 era um mundo de planejadores. A Segunda Guerra tinha acabado quatro anos antes. Os governos venceram a guerra com planejamento central: racionamento, controle de produção, direcionamento industrial. A lição parecia óbvia: se planejamento central venceu Hitler, pode resolver a pobreza.
 
-A União Soviética, com seus planos quinquenais, apresentava-se como alternativa. Na Europa, governos socializavam ferrovias, minas, energia. A pergunta dominante não era "o governo deve planejar?" Mas "quanto?"
+A União Soviética, com seus planos quinquenais, apresentava-se como alternativa. Na Europa, governos socializavam ferrovias, minas, energia. A pergunta dominante não era “o governo deve planejar?” Mas “quanto?”
 
 Mises respondia: zero. Não porque planejamento era difícil. Porque era impossível. Não por falta de vontade. Por falta de informação.
 
 Hayek, no artigo anterior, mostrou que o conhecimento está disperso. Mises deu o passo seguinte: se ninguém tem a informação completa, como surge a ordem? Resposta: a ordem não precisa ser criada. Ela emerge.
 
----
+* * *
 
 ## **3\. A ideia central**
 
 A tese de Mises cabe numa frase que parece absurda na primeira leitura: ordem não precisa de organizador.
 
-Pense na língua portuguesa. Ninguém sentou numa sala e decidiu que "saudade" significaria o que significa. Ninguém planejou as conjugações verbais. Ninguém desenhou a gramática antes de as pessoas falarem. A língua surgiu do uso. Milhões de pessoas, ao longo de séculos, foram ajustando sons, significados, regras. Sem coordenador. Sem comitê. Sem decreto.
+Pense na língua portuguesa. Ninguém sentou numa sala e decidiu que “saudade” significaria o que significa. Ninguém planejou as conjugações verbais. Ninguém desenhou a gramática antes de as pessoas falarem. A língua surgiu do uso. Milhões de pessoas, ao longo de séculos, foram ajustando sons, significados, regras. Sem coordenador. Sem comitê. Sem decreto.
 
 O resultado é um sistema de comunicação tão sofisticado que nenhum linguista consegue projetá-lo do zero. Línguas planejadas (esperanto) funcionam. Línguas que emergiram vivem.
 
@@ -56,19 +58,20 @@ O preço do tomate na feira é ordem espontânea. Nenhum ministro decidiu que cu
 
 Antes de Mises, a maioria assumia que ordem exige alguém mandando. Depois de Mises, ficou claro: muitas das coisas mais complexas do mundo não foram projetadas por ninguém. Foram construídas por todos.
 
----
-
-## 
+* * *
 
 ## **4\. Desdobramentos**
 
 ### **O axioma que ninguém consegue negar.**
 
-Mises construiu sua economia inteira sobre um fundamento: humanos agem. Parece trivial. Não é. Agir significa:   
+Mises construiu sua economia inteira sobre um fundamento: humanos agem. Parece trivial. Não é. Agir significa: 
 
-(1) estar insatisfeito com algo,  
-(2) imaginar um estado melhor,  
-(3) acreditar que sua ação pode mudar a realidade,  
+(1) estar insatisfeito com algo, 
+
+(2) imaginar um estado melhor, 
+
+(3) acreditar que sua ação pode mudar a realidade, 
+
 (4) escolher entre alternativas, renunciando ao que não escolheu.
 
 Tente negar isso. Negar é uma ação. Você acabou de provar o que tentou refutar. O axioma é irrefutável porque qualquer tentativa de refutação o confirma.
@@ -81,39 +84,39 @@ Se a ordem emerge de ações individuais, como as pessoas se coordenam sem se fa
 
 Sem preços, sem cálculo. Mises provou isso em 1920: numa economia em que o Estado é dono de tudo, não existem preços reais para os meios de produção. Sem preços, o planejador não sabe se está usando aço para pontes quando deveria estar usando para hospitais. Adivinha. E adivinhar com a vida de milhões tem nome: tragédia.
 
-No mundo digital, sinais equivalentes existem. Estrelas no GitHub, downloads, forks, número de contribuidores: são "preços" que dizem onde está o valor. Nenhum comitê central precisa decidir qual projeto merece atenção. As pessoas decidem agindo. A ordem emerge.
+No mundo digital, sinais equivalentes existem. Estrelas no GitHub, downloads, forks, número de contribuidores: são “preços” que dizem onde está o valor. Nenhum comitê central precisa decidir qual projeto merece atenção. As pessoas decidem agindo. A ordem emerge.
 
----
+* * *
 
 ## **5\. Legado histórico**
 
-Mises escreveu seu argumento sobre o cálculo econômico em 1920\. A União Soviética durou mais de setenta anos tentando provar que ele estava errado. Quando caiu, em 1991, os arquivos revelaram: fábricas que produziam sapatos que ninguém queria, siderúrgicas que desperdiçavam mais recursos do que geravam, trigo apodrecendo em armazéns enquanto havia fila para pão.
+Mises escreveu seu argumento sobre o cálculo econômico em 1920. A União Soviética durou mais de setenta anos tentando provar que ele estava errado. Quando caiu, em 1991, os arquivos revelaram: fábricas que produziam sapatos que ninguém queria, siderúrgicas que desperdiçavam mais recursos do que geravam, trigo apodrecendo em armazéns enquanto havia fila para pão.
 
 Hayek, aluno de Mises em Viena, levou as ideias do professor para Londres e Chicago. Rothbard radicalizou a escola austríaca. Kirzner desenvolveu a teoria do empreendedor como descobridor de oportunidades. A escola austríaca influenciou as reformas de Thatcher e Reagan. Não porque lessem Mises. Porque as ideias tinham se espalhado por think tanks e conselheiros. Memes, no sentido de Dawkins: ideias que se replicam.
 
-Asimov imaginou em 1942 o que Mises descreveu em prosa: um sistema que ninguém controla, mas que produz ordem ao longo de gerações, desde que as condições iniciais sejam bem desenhadas. 
+Asimov imaginou em 1942 o que Mises descreveu em prosa: um sistema que ninguém controla, mas que produz ordem ao longo de gerações, desde que as condições iniciais sejam bem desenhadas.
 
 ## **Por que a Fundação é central, não periférica**?
 
-Asimov escreveu a série Fundação nos anos 1940, inspirado diretamente em Gibbon: *Declínio e Queda do Império Romano*. A pergunta de Hari Seldon não é ficção científica genérica. É a mesma pergunta de São Bento em 529 d.C.: quando o sistema central colapsar, o que preserva o conhecimento acumulado?
+Asimov escreveu a série Fundação nos anos 1940, inspirado diretamente em Gibbon: _Declínio e Queda do Império Romano_. A pergunta de Hari Seldon não é ficção científica genérica. É a mesma pergunta de São Bento em 529 d.C.: quando o sistema central colapsar, o que preserva o conhecimento acumulado?
 
 A resposta do protagonista Seldon é protocolo. Não heroísmo, não liderança carismática. Um repositório distribuído, com redundância geográfica (duas Fundações em pontas opostas da galáxia), com plano de versões futuras já embutido no design, e com mecanismo de correção incorporado (o Plano Seldon que se ajusta a desvios).
 
 Isso é Git. Literalmente.
 
-E a psicohistória tem uma limitação estrutural que Asimov reconheceu: funciona para massas, falha para indivíduos excepcionais. O personagem chamado "o Mulo" quebra o plano inteiro porque é um outlier que o modelo não previu. É exatamente o argumento de Taleb sobre fragilidade: sistema otimizado para o esperado colapsa diante do inesperado.
+E a psicohistória tem uma limitação estrutural que Asimov reconheceu: funciona para massas, falha para indivíduos excepcionais. O personagem chamado “o Mulo” quebra o plano inteiro porque é um outlier que o modelo não previu. É exatamente o argumento de Taleb sobre fragilidade: sistema otimizado para o esperado colapsa diante do inesperado.
 
 A Fundação não é chefiada por Seldon. É o repositório que ele deixou para quem viesse depois.
 
----
+* * *
 
 ## **6\. Contradições e limitações**
 
 Mises tinha um ponto cego do tamanho da própria teoria. Se ordem espontânea é tão poderosa, por que mercados reais produzem monopólios, poluição, crises financeiras? A resposta austríaca (é sempre culpa de intervenção governamental) é elegante, mas parcial. Mercados sem regulação alguma podem gerar concentração de poder tão perigosa quanto qualquer governo.
 
-Mises também subestimava a cooperação não-mercantil. Insistia que ação racional é sempre individual e utilitária. Mas pessoas contribuem para software livre sem ganho monetário, doam sangue, criam Wikipédia. A motivação humana é mais complexa do que "cada um busca seu interesse". Ordem espontânea funciona. Mas funciona por motivos que Mises não capturou todos.
+Mises também subestimava a cooperação não-mercantil. Insistia que ação racional é sempre individual e utilitária. Mas pessoas contribuem para software livre sem ganho monetário, doam sangue, criam Wikipédia. A motivação humana é mais complexa do que “cada um busca seu interesse”. Ordem espontânea funciona. Mas funciona por motivos que Mises não capturou todos.
 
----
+* * *
 
 ## **7\. A tradução para versionamento**
 
@@ -127,13 +130,13 @@ O Linux é ordem espontânea digital. Ninguém planejou o resultado. Milhares de
 
 Issues abertas são preferência demonstrada. Quando alguém abre uma issue, está dizendo com uma ação que algo precisa mudar. O volume de issues num tema é um sinal de preço: indica onde está a insatisfação. Ninguém precisa fazer pesquisa. O sistema agrega a informação sozinho.
 
-Merge e revert são lucro e prejuízo. Código aceito (merge) é o equivalente ao lucro: a contribuição gerou valor, foi absorvida pelo sistema. Código rejeitado ou revertido é prejuízo: a tentativa falhou, o sistema sinaliza "isso não funciona aqui". Sem esses dois sinais, não há aprendizado. Um repositório que aceita tudo sem review é como uma economia sem preços: parece funcionar, mas acumula lixo invisível até colapsar.
+Merge e revert são lucro e prejuízo. Código aceito (merge) é o equivalente ao lucro: a contribuição gerou valor, foi absorvida pelo sistema. Código rejeitado ou revertido é prejuízo: a tentativa falhou, o sistema sinaliza “isso não funciona aqui”. Sem esses dois sinais, não há aprendizado. Um repositório que aceita tudo sem review é como uma economia sem preços: parece funcionar, mas acumula lixo invisível até colapsar.
 
 Fork é concorrência. Mises dizia que concorrência impede monopólio. No Git, fork faz o mesmo: se o projeto original se torna rígido ou capturado, qualquer pessoa pode copiar tudo e seguir outro caminho. A ameaça do fork mantém o projeto honesto.
 
-Alerta de vigilância: se alguém monopoliza o merge, virou planejador central. Se um grupo pequeno decide quais issues são "válidas" sem critério transparente, virou comitê soviético. Centralizar os sinais é matar o sistema por dentro.
+Alerta de vigilância: se alguém monopoliza o merge, virou planejador central. Se um grupo pequeno decide quais issues são “válidas” sem critério transparente, virou comitê soviético. Centralizar os sinais é matar o sistema por dentro.
 
----
+* * *
 
 ## **8\. Implicação prática**
 
@@ -141,19 +144,23 @@ Em 1974, dois engenheiros americanos, Vint Cerf e Bob Kahn, publicaram um artigo
 
 Mises diria que era ordem espontânea em forma de protocolo. A internet não tem dono, não tem sede, não tem diretor. Tem regras simples que, seguidas por bilhões de dispositivos independentes, produzem uma rede que move quintilhões de bytes por dia. Nenhum planejador central teria conseguido projetar isso. A complexidade emergiu da simplicidade das regras, exatamente como Mises descreveu para os preços de mercado: não é o resultado do plano de ninguém, mas funciona melhor do que qualquer plano poderia funcionar.
 
-Para ilustrar, imagine que uma cooperativa de agricultores no interior de Goiás precisa decidir o calendário de plantio. Opção catedral: o presidente decide sozinho. Opção Mises: cada agricultor registra o que observa no seu lote (pragas, chuva, solo, preço local). Ninguém sabe tudo. Todos sabem algo. O conjunto dessas observações, visível em um quadro compartilhado, gera uma decisão  mais inteligente do que qualquer presidente conseguiria sozinho. Não é preciso um gênio no comando. É preciso um sistema que agregue o que cada um sabe.
+Para ilustrar, imagine que uma cooperativa de agricultores no interior de Goiás precisa decidir o calendário de plantio. Opção catedral: o presidente decide sozinho. Opção Mises: cada agricultor registra o que observa no seu lote (pragas, chuva, solo, preço local). Ninguém sabe tudo. Todos sabem algo. O conjunto dessas observações, visível em um quadro compartilhado, gera uma decisão mais inteligente do que qualquer presidente conseguiria sozinho. Não é preciso um gênio no comando. É preciso um sistema que agregue o que cada um sabe.
 
----
+* * *
 
 ## **9\. Lições aprendidas**
 
-Ordem não precisa de organizador. Precisa de regras simples, sinais claros e liberdade para agir.  
-O que as pessoas fazem revela mais do que o que dizem. Observe ações, não discursos.  
+Ordem não precisa de organizador. Precisa de regras simples, sinais claros e liberdade para agir.
+
+O que as pessoas fazem revela mais do que o que dizem. Observe ações, não discursos.
+
 Sem sinais de feedback (preços, reviews, métricas), nenhum sistema aprende. Aceitar tudo é tão destrutivo quanto rejeitar tudo.
 
-Centralizar decisões é desperdiçar o que cada pessoa sabe. Descentralizar é confiar no processo.  
-A ameaça de concorrência (fork) é o que mantém qualquer sistema honesto.  
----
+Centralizar decisões é desperdiçar o que cada pessoa sabe. Descentralizar é confiar no processo.
+
+A ameaça de concorrência (fork) é o que mantém qualquer sistema honesto.
+
+* * *
 
 ## **10\. Explorando caminhos e conexões.**
 
@@ -167,12 +174,33 @@ Em 1948, um engenheiro dos Laboratórios Bell publicou 55 páginas que mudaram o
 
 Se você acha que sabe o que é informação, prepare-se para descobrir que não sabe.
 
----
+* * *
+
+Artigos anteriores, prefácio, introdução e documentação completa estão disponíveis nestes lugares:
+
+<https://codeberg.org/openarchy/gitgov>
+
+<https://github.com/openarchy/gitgov>
+
+Todo o conteúdo é totalmente open source e acessível a todos.  
+  
+O conteúdo está licenciado sob CC BY-SA 4.0: você pode ler, compartilhar, traduzir, adaptar e melhorar — desde que mantenha a atribuição e distribua derivados sob a mesma licença.  
+  
+Se encontrar um erro, tiver uma ideia ou quiser propor uma melhoria, é só abrir uma issue ou fazer um fork no Codeberg ou no GitHub. Contribuições são bem-vindas. Essa é exatamente a ideia.
+
+* * *
 
 ## **11\. Referências**
 
-1. CERF, Vint; KAHN, Robert. A protocol for packet network intercommunication. **IEEE Transactions on Communications**, v. 22, n. 5, p. 637-648, maio 1974\.  
-2. KIRZNER, Israel M. **Ludwig von Mises: The Man and His Economics**. Wilmington: ISI Books, 2001\.  
-3. MISES, Ludwig von. Economic Calculation in the Socialist Commonwealth. In: HAYEK, F. A. (Ed.). **Collectivist Economic Planning**. London: Routledge, 1935\. p. 87-130. (Artigo original: 1920.)  
-4. MISES, Ludwig von. **Human Action: A Treatise on Economics**. New Haven: Yale University Press, 1949\. (Edição brasileira: Ação Humana. São Paulo: Instituto Ludwig von Mises Brasil, 2010.)  
-5. ASIMOV, Isaac. *Fundação*. São Paulo: Aleph, 2009\. (Original: Foundation, 1951.)
+  1. ASIMOV, Isaac. _Fundação_. São Paulo: Aleph, 2009. (Original: Foundation, 1951.)
+
+  2. CERF, Vint; KAHN, Robert. A protocol for packet network intercommunication. **IEEE Transactions on Communications** , v. 22, n. 5, p. 637-648, maio 1974.
+
+  3. KIRZNER, Israel M. **Ludwig von Mises: The Man and His Economics**. Wilmington: ISI Books, 2001.
+
+  4. MISES, Ludwig von. Economic Calculation in the Socialist Commonwealth. In: HAYEK, F. A. (Ed.). **Collectivist Economic Planning**. London: Routledge, 1935. p. 87-130. (Artigo original: 1920.)
+
+  5. MISES, Ludwig von. **Human Action: A Treatise on Economics**. New Haven: Yale University Press, 1949. (Edição brasileira: Ação Humana. São Paulo: Instituto Ludwig von Mises Brasil, 2010.)
+
+
+

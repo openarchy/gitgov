@@ -1,22 +1,26 @@
-# **Friedrich Hayek**
+[![](https://substackcdn.com/image/fetch/$s_!9moJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff43a2afd-047d-4a47-adda-3999fe5e84bb_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!9moJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff43a2afd-047d-4a47-adda-3999fe5e84bb_1920x1080.png)
 
-# **O conhecimento que ninguém tem completo.**
+Você já tomou uma decisão perfeita no papel que não funcionou na prática? Hayek explicou por quê em 1945: o conhecimento que importa não está na mesa de quem decide. 
 
-## **Artigo 03 de 21 da série "Governança como Versionamento".**
+Este artigo mostra a ligação e o que isso tem a ver com qualquer grupo que precisa se coordenar.
 
----
+## O conhecimento que ninguém tem completo.
 
-**O que você vai encontrar aqui?**
+#### **Artigo 03 de 21 da série “Governança como Versionamento”.**
 
-Você já participou de uma reunião em que alguém decidiu por todos sem saber o que cada um precisava? Um gestor que definiu a política de compras sem perguntar nada para quem vai usá-la? Um comitê que aprovou o orçamento sem entender a realidade de cada setor? A decisão saiu perfeita no papel. Na prática, não servia para ninguém.
+* * *
 
-Esse não é um problema de má vontade. É um problema de informação. E Hayek foi o primeiro a explicar por que ele é irresolvível se você depende de uma só cabeça para decidir.
+> **O que você vai encontrar aqui?**
+> 
+> Você já participou de uma reunião em que alguém decidiu por todos sem saber o que cada um precisava? Um gestor que definiu a política de compras sem perguntar nada para quem vai usá-la? Um comitê que aprovou o orçamento sem entender a realidade de cada setor? A decisão saiu perfeita no papel. Na prática, não servia para ninguém.
+> 
+> Esse não é um problema de má vontade. É um problema de informação. E Hayek foi o primeiro a explicar por que ele é irresolvível se você depende de uma só cabeça para decidir.
 
----
+* * *
 
 ## **1\. Onde tudo começa.**
 
-Londres, setembro de 1945\. A guerra acabou faz quatro meses. A Europa é um mapa de escombros. Cidades inteiras viraram pó. E nos corredores das universidades, nos cafés, nos jornais, uma pergunta domina tudo: como reconstruir?
+Londres, setembro de 1945. A guerra acabou faz quatro meses. A Europa é um mapa de escombros. Cidades inteiras viraram pó. E nos corredores das universidades, nos cafés, nos jornais, uma pergunta domina tudo: como reconstruir?
 
 A resposta mais popular era simples: planejamento. Se conseguimos planejar o desembarque na Normandia, com 150 mil soldados numa manhã, por que não planejar a economia? Se um comitê de generais coordenou a maior operação militar da história, por que um comitê de economistas não coordenaria a produção de sapatos, trigo e aço?
 
@@ -26,7 +30,7 @@ A maioria dos intelectuais da época ignorou o artigo. Planejamento central era 
 
 Levou décadas para descobrirem que o inconveniente estava certo.
 
----
+* * *
 
 ## **2\. Contexto histórico**
 
@@ -36,21 +40,21 @@ A ideia dominante: se você pode organizar um exército, pode organizar uma econ
 
 Hayek via um problema nessa lógica. Um problema que não era de grau (precisamos de mais dados), mas de natureza (o tipo de conhecimento necessário não pode ser centralizado). Não dizia que o planejamento central era difícil. Dizia que era impossível.
 
----
+* * *
 
 ## **3\. A ideia central**
 
-A tese de Hayek começa com uma correção. A maioria das pessoas acha que o problema econômico é: "temos recursos, como distribuí-los?” Hayek diz que o problema real é outro: "quem sabe onde cada recurso é mais necessário?"
+A tese de Hayek começa com uma correção. A maioria das pessoas acha que o problema econômico é: “temos recursos, como distribuí-los?” Hayek diz que o problema real é outro: “quem sabe onde cada recurso é mais necessário?”
 
 Pense num padeiro. Ele sabe quantos pães vende por dia. Sabe que na segunda vende menos porque o bairro esvazia no fim de semana? Sabe que, quando chove, o movimento cai. Sabe que o fornecedor de farinha subiu o preço na semana passada? Esse conhecimento está na cabeça dele. Não está em um relatório em Brasília. Não está numa planilha do Ministério. Está ali, naquele balcão, naquela esquina.
 
-Hayek chamou isso de "conhecimento das circunstâncias particulares de tempo e lugar". Não é conhecimento científico, não é teoria, não é dado estatístico. É saber local, prático, que muda a cada hora. O fazendeiro sabe qual pedaço da terra dele tem pedra enterrada. O motorista de táxi sabe qual rua está interditada. O dono da loja sabe que o vizinho fechou e os clientes dele vão precisar de outro fornecedor.
+Hayek chamou isso de “conhecimento das circunstâncias particulares de tempo e lugar”. Não é conhecimento científico, não é teoria, não é dado estatístico. É saber local, prático, que muda a cada hora. O fazendeiro sabe qual pedaço da terra dele tem pedra enterrada. O motorista de táxi sabe qual rua está interditada. O dono da loja sabe que o vizinho fechou e os clientes dele vão precisar de outro fornecedor.
 
 Agora multiplique por milhões de pessoas, decisões e contextos. Como um comitê central em Moscou (ou Brasília) pode saber tudo isso?
 
 Resposta: não pode. Mesmo com os melhores computadores, os dados estariam desatualizados antes de chegar à mesa. A realidade muda mais rápido que qualquer burocracia processa.
 
----
+* * *
 
 ## **4\. Desdobramentos**
 
@@ -70,21 +74,19 @@ A União Soviética produzia sapatos em quantidades enormes. Mas do tamanho erra
 
 ### **A liberdade como pré-condição**
 
-Um ano antes do artigo sobre conhecimento, Hayek publicou "O Caminho da Servidão". A tese era simples: se o Estado controla a economia, controla sua vida. Quem decide onde você trabalha, quanto ganha, o que produz, decide se você come. E quem decide se você come, decide se você fala.
+Um ano antes do artigo sobre conhecimento, Hayek publicou “O Caminho da Servidão”. A tese era simples: se o Estado controla a economia, controla sua vida. Quem decide onde você trabalha, quanto ganha, o que produz, decide se você come. E quem decide se você come, decide se você fala.
 
 Hayek não defendia capitalismo selvagem. Defendia um aviso: controle total da economia leva a controle total da política. Não por maldade dos governantes, mas pela lógica do sistema. Se toda decisão econômica passa por um comitê, dissidência vira sabotagem. Opinião contrária vira crime. O caminho é gradual. E, quando você percebe, a jaula já fechou.
 
----
+* * *
 
 ## **5\. Legado histórico**
 
-A União Soviética durou 74 anos e colapsou em 1991\. Filas intermináveis, escassez crônica, mercado negro em toda esquina. Cuba, Coreia do Norte: o padrão se repete. Planejamento central produz relatórios bonitos e prateleiras vazias.
+A União Soviética durou 74 anos e colapsou em 1991. Filas intermináveis, escassez crônica, mercado negro em toda esquina. Cuba, Coreia do Norte: o padrão se repete. Planejamento central produz relatórios bonitos e prateleiras vazias.
 
-Hayek ganhou o Nobel de Economia em 1974\. Margaret Thatcher carregava "O Caminho da Servidão" na bolsa e batia com o livro na mesa do parlamento. A queda do Muro de Berlim em 1989 foi a confirmação empírica do que Hayek escreveu em 1945\.
+Hayek ganhou o Nobel de Economia em 1974. Margaret Thatcher carregava “O Caminho da Servidão” na bolsa e batia com o livro na mesa do parlamento. A queda do Muro de Berlim em 1989 foi a confirmação empírica do que Hayek escreveu em 1945.
 
----
-
-## 
+* * *
 
 ## **6\. Contradições e limitações**
 
@@ -92,7 +94,7 @@ Hayek exagerou na confiança no mercado como mecanismo de coordenação. Mercado
 
 E Hayek subestimou o poder de coordenação que computadores e redes trariam. Ele estava certo de que um comitê em Moscou não podia processar milhões de dados. Mas a internet processa. Não resolveu o problema que ele identificou (conhecimento tácito continua sendo local), mas mudou a escala do possível.
 
----
+* * *
 
 ## **7\. A tradução para versionamento**
 
@@ -102,13 +104,13 @@ Uma objeção aparece aqui com frequência: o argumento de Hayek é sobre mercad
 
 Num sistema fechado (a catedral de Raymond), um comitê pequeno decide tudo. É o planejador central de Hayek: poucos cérebros tentando processar mais informação do que conseguem. Num sistema aberto (o bazar), milhares de pessoas contribuem com o que sabem. Cada uma vê um pedaço diferente do problema. O programador na Índia encontra um bug que ninguém na Califórnia veria. A desenvolvedora no Brasil percebe que a interface não funciona para quem lê da direita para a esquerda. Conhecimento disperso, cada um contribuindo com sua circunstância particular de tempo e lugar. Hayek reconheceria isso na hora.
 
-**Passo 9 — Issue:** uma issue é o "conhecimento das circunstâncias particulares de tempo e lugar" de Hayek em forma de proposta escrita. Quando um membro da cooperativa registra um problema (insumo errado, prazo que não funciona, decisão que prejudica sua realidade específica), ele está fazendo exatamente o que o mercado faz com preços: transformando informação local em sinal visível para quem decide. Issue aberta é sinal de problema. Issue resolvida é sinal de correção. O acúmulo de issues numa área é sinal de instabilidade sistêmica. O sistema gera informação distribuída que nenhum coordenador central precisa interpretar sozinho.
+**Passo 9 — Issue:** uma issue é o “conhecimento das circunstâncias particulares de tempo e lugar” de Hayek em forma de proposta escrita. Quando um membro da cooperativa registra um problema (insumo errado, prazo que não funciona, decisão que prejudica sua realidade específica), ele está fazendo exatamente o que o mercado faz com preços: transformando informação local em sinal visível para quem decide. Issue aberta é sinal de problema. Issue resolvida é sinal de correção. O acúmulo de issues numa área é sinal de instabilidade sistêmica. O sistema gera informação distribuída que nenhum coordenador central precisa interpretar sozinho.
 
 Os preços de Hayek encontram paralelo nos outros sinais do versionamento. Número de reverts numa área é sinal de instabilidade (mercado nervoso). Quantidade de forks é sinal de insatisfação com a versão oficial (consumidores migrando). O sistema gera informação que nenhuma reunião de diretoria conseguiria produzir.
 
 E o alerta de vigilância: mesmo num repositório aberto, é possível criar um gargalo. Se uma pessoa controla o merge, ela virou o planejador central. Se as issues passam por um comitê que demora semanas para responder, o feedback está bloqueado. O sistema aberto pode reproduzir todos os defeitos que Hayek identificou no planejamento central, se as permissões forem desenhadas errado. Lessig diria: o código define o que é possível. Hayek diria: se a informação não flui, o sistema morre.
 
----
+* * *
 
 ## **8\. Implicação prática**
 
@@ -118,7 +120,7 @@ O resultado desconcertou os especialistas em pesquisa eleitoral. Nas eleições 
 
 Imagine agora: uma cooperativa agrícola no interior do Paraná decide que todas as compras de insumos serão centralizadas num comitê de três pessoas. Resultado: o comitê compra fertilizante que funciona bem para soja, mas metade dos cooperados planta milho. O comitê não sabia, porque nunca perguntou. Num sistema versionado, cada agricultor abre uma issue com o que precisa. O comitê vê o mapa completo antes de decidir. Não porque ficou mais inteligente, mas porque o sistema fez o conhecimento disperso fluir.
 
----
+* * *
 
 ## **9\. Lições aprendidas**
 
@@ -130,7 +132,7 @@ Feedback lento mata. Se quem erra não descobre rápido que errou, o erro cresce
 
 O gargalo humano é o novo planejador central. Se uma pessoa controla o merge, você recriou Moscou com interface bonita.
 
----
+* * *
 
 ## **10\. Explorando caminhos e conexões.**
 
@@ -140,16 +142,35 @@ Três artigos, três fundamentos empilhados. Consentimento. Correção. Conhecim
 
 Mas falta uma peça. Se ninguém controla tudo e o conhecimento está espalhado, como é que as coisas funcionam? Como é que milhões de pessoas, sem combinar nada, produzem algo que parece ter sido planejado?
 
-Em 1949, um economista austríaco (que por acaso era professor de Hayek) publicou um livro de 900 páginas chamado "Human Action". Ludwig von Mises tinha uma resposta para essa pergunta. E a resposta era desconcertante: a ordem não precisa de organizador. Ela surge sozinha.
+Em 1949, um economista austríaco (que por acaso era professor de Hayek) publicou um livro de 900 páginas chamado “Human Action”. Ludwig von Mises tinha uma resposta para essa pergunta. E a resposta era desconcertante: a ordem não precisa de organizador. Ela surge sozinha.
 
 O nome disso é ordem espontânea. E, se você entender esse conceito, vai entender por que a Wikipédia funciona sem editor-chefe e por que a língua que você está lendo agora funciona sem que ninguém a tenha projetado.
 
----
+* * *
+
+Artigos anteriores, prefácio, introdução e documentação completa estão disponíveis nestes lugares:
+
+<https://codeberg.org/openarchy/gitgov>
+
+<https://github.com/openarchy/gitgov>
+
+Todo o conteúdo é totalmente open source e acessível a todos.  
+  
+O conteúdo está licenciado sob CC BY-SA 4.0: você pode ler, compartilhar, traduzir, adaptar e melhorar — desde que mantenha a atribuição e distribua derivados sob a mesma licença.  
+  
+Se encontrar um erro, tiver uma ideia ou quiser propor uma melhoria, é só abrir uma issue ou fazer um fork no Codeberg ou no GitHub. Contribuições são bem-vindas. Essa é exatamente a ideia.
+
+* * *
 
 ## **11\. Referências**
 
-1. BERG, Joyce; FORSYTHE, Robert; NELSON, Forrest; RIETZ, Thomas. Results from a dozen years of election futures markets research. In: PLOTT, Charles; SMITH, Vernon (ed.). **Handbook of Experimental Economics Results**. Amsterdam: Elsevier, 2008\. p. 742-751.  
-2. CALDWELL, Bruce. **Hayek's Challenge: An Intellectual Biography of F. A. Hayek**. Chicago: University of Chicago Press, 2004\.  
-3. HAYEK, Friedrich A. The Use of Knowledge in Society. **American Economic Review**, v. 35, n. 4, p. 519-530, 1945\.  
-4. HAYEK, Friedrich A. **The Road to Serfdom**. London: Routledge, 1944\. (Edição brasileira: O Caminho da Servidão. São Paulo: Instituto Ludwig von Mises Brasil, 2010.)
+  1. BERG, Joyce; FORSYTHE, Robert; NELSON, Forrest; RIETZ, Thomas. Results from a dozen years of election futures markets research. In: PLOTT, Charles; SMITH, Vernon (ed.). **Handbook of Experimental Economics Results**. Amsterdam: Elsevier, 2008. p. 742-751.
+
+  2. CALDWELL, Bruce. **Hayek’s Challenge: An Intellectual Biography of F. A. Hayek**. Chicago: University of Chicago Press, 2004.
+
+  3. HAYEK, Friedrich A. The Use of Knowledge in Society. **American Economic Review** , v. 35, n. 4, p. 519-530, 1945.
+
+  4. HAYEK, Friedrich A. **The Road to Serfdom**. London: Routledge, 1944. (Edição brasileira: O Caminho da Servidão. São Paulo: Instituto Ludwig von Mises Brasil, 2010.)
+
+
 

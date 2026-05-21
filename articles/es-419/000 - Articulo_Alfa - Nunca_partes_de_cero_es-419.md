@@ -1,17 +1,10 @@
-# Artículo Alfa - Nunca partes de cero.
-
-¿Por qué algunas personas aprenden cualquier cosa en meses?  
-¿Y otras pasan años haciendo exactamente lo mismo?
-
-No es talento. Es método.  
-Y el método empieza por entender esto: nunca partes de cero.
-
+[![](https://substackcdn.com/image/fetch/$s_!08cB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bb45250-5b21-426c-959c-bc526da744c1_2752x1536.png)](https://substackcdn.com/image/fetch/$s_!08cB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bb45250-5b21-426c-959c-bc526da744c1_2752x1536.png)
 
 ### **1\. Cómo usar lo que ya sabes para aprender cualquier cosa más rápido**
 
 Este es el Artículo Alfa. No es el primero de la serie que voy a publicar, es el que viene antes del primero.
 
-La serie "Gobernanza como Versionamiento" comienza de verdad en el Artículo Cero, a partir del 7 de abril de 2026, cuando Git cumple 21 años.
+La serie “Gobernanza como Versionamiento” comienza de verdad en el Artículo Cero, a partir del 7 de abril de 2026, cuando Git cumple 21 años.
 
 El Artículo Alfa existe porque cualquier argumento honesto muestra el método antes de aplicarlo.
 
@@ -39,7 +32,7 @@ Esa fue la primera vez que entendí, sin tener palabras para eso, que aprender n
 
 No lo aprendí en un libro. Me lo impusieron las circunstancias de la vida.
 
-Nunca tuvimos tanto conocimiento disponible. Cualquier tema, en segundos. Cualquier formato: texto, video, audio, podcast, curso en línea, resumen generado por IA en 30 segundos. La distancia entre "no sé nada sobre X" y "tengo acceso a todo sobre X" nunca fue tan corta.
+Nunca tuvimos tanto conocimiento disponible. Cualquier tema, en segundos. Cualquier formato: texto, video, audio, podcast, curso en línea, resumen generado por IA en 30 segundos. La distancia entre “no sé nada sobre X” y “tengo acceso a todo sobre X” nunca fue tan corta.
 
 Y al mismo tiempo, nunca tanta gente se sintió tan bloqueada para aprender cosas nuevas.
 
@@ -53,9 +46,9 @@ La va a proponer de nuevo porque no reconoció la forma. Porque creyó que estab
 
 No lo estaba.
 
-Esa idea — la de que la mirada exterior revela lo que la mirada interior no puede ver — tiene al menos tres siglos de uso documentado. En 1721, Montesquieu publicó _Cartas persas_: una novela epistolar en la que dos persas ficticios, Usbek y Rica, visitan Francia y escriben cartas a casa describiendo lo que ven. Lo que ven, claro, es lo que los franceses no podían ver en sí mismos: el absurdo de la corte, la irracionalidad de las leyes, la vanidad de las costumbres. Montesquieu era francés. Pero necesitaba un extranjero para decir lo que un francés no podía decir sin ser arrestado.
+Esa idea — la de que la mirada exterior revela lo que la mirada interior no puede ver — tiene al menos tres siglos de uso documentado. En 1721, Montesquieu publicó _Cartas persas_ : una novela epistolar en la que dos persas ficticios, Usbek y Rica, visitan Francia y escriben cartas a casa describiendo lo que ven. Lo que ven, claro, es lo que los franceses no podían ver en sí mismos: el absurdo de la corte, la irracionalidad de las leyes, la vanidad de las costumbres. Montesquieu era francés. Pero necesitaba un extranjero para decir lo que un francés no podía decir sin ser arrestado.
 
-El artificio era deliberado. Lo llamó "método del distanciamiento": la condición del saber es no pertenecer a la sociedad que se describe. Quien está demasiado adentro no puede ver. Quien está suficientemente afuera, ve lo que era invisible.
+El artificio era deliberado. Lo llamó “método del distanciamiento”: la condición del saber es no pertenecer a la sociedad que se describe. Quien está demasiado adentro no puede ver. Quien está suficientemente afuera, ve lo que era invisible.
 
 Trescientos años después, sigue siendo verdad.
 
@@ -95,7 +88,7 @@ Para las matemáticas, una taza de café y una rosquilla son la misma cosa: cada
 
 Charles Berlitz pasó décadas haciendo exactamente esto con los idiomas. En _Las lenguas del mundo_ y en su serie de guías de conversación, no enseñaba vocabulario: desmontaba arquitecturas. Mostraba dónde el inglés y el japonés divergen en la estructura de la frase, dónde el árabe y el hebreo comparten raíces comunes, dónde el portugués y el italiano son casi el mismo mapa con nombres distintos. Berlitz hacía que el lector viera los idiomas como sistemas, no como listas de palabras. Aprendí mucho con él. Es isomorfismo aplicado a la lingüística, antes de tener ese nombre.
 
-Mikhail Petrunin fue un paso más allá. En _"Gramática Comparativa del Español, Portugués, Italiano y Francés"_ (2024), coloca las cuatro lenguas lado a lado en la misma página, en columnas paralelas. No alternas entre libros: ves simultáneamente dónde el español dice "hablo", el portugués dice "falo", el italiano dice "parlo" y el francés dice "je parle". La estructura compartida aparece en el mismo campo visual, sin necesitar memoria ni esfuerzo de comparación. El lector no aprende cuatro idiomas de cero: reconoce una arquitectura que ya conoce parcialmente, vestida con cuatro ropas distintas. Es el principio de este artículo transformado en método de presentación: nunca partes de cero porque la estructura que conecta los idiomas estaba ahí antes de que abrieras el libro.
+Mikhail Petrunin fue un paso más allá. En _“Gramática Comparativa del Español, Portugués, Italiano y Francés”_ (2024), coloca las cuatro lenguas lado a lado en la misma página, en columnas paralelas. No alternas entre libros: ves simultáneamente dónde el español dice “hablo”, el portugués dice “falo”, el italiano dice “parlo” y el francés dice “je parle”. La estructura compartida aparece en el mismo campo visual, sin necesitar memoria ni esfuerzo de comparación. El lector no aprende cuatro idiomas de cero: reconoce una arquitectura que ya conoce parcialmente, vestida con cuatro ropas distintas. Es el principio de este artículo transformado en método de presentación: nunca partes de cero porque la estructura que conecta los idiomas estaba ahí antes de que abrieras el libro.
 
 * * *
 
@@ -113,7 +106,7 @@ El **estructural** preserva quién se conecta con quién. El organigrama de una 
 
 El **funcional** preserva lo que el sistema hace, no cómo funciona por dentro. El corazón y una bomba de agua realizan la misma función: empujar líquido en ciclos. Ingenieros y médicos estudian problemas parecidos con nombres distintos.
 
-Aquí hay un ejemplo popular que ilustra esto mejor que cualquier manual. En _Pigmalión_, la obra de George Bernard Shaw de 1913 — que probablemente conoces mejor en su versión musical _My Fair Lady_ —, el profesor de fonética Henry Higgins hace una apuesta: que puede transformar a Eliza Doolittle, una vendedora de flores con acento cockney del East End londinense, en una dama de la alta sociedad, aceptada en cualquier salón. El contenido no cambia: misma persona, misma inteligencia, mismo vocabulario de base. Lo que cambia es el código de acceso. La pronunciación, el ritmo del habla, las pausas correctas, las referencias esperadas. Shaw lo llamaba fonética. Es isomorfismo funcional: la función social es la misma, el protocolo de entrada es diferente.
+Aquí hay un ejemplo popular que ilustra esto mejor que cualquier manual. En _Pigmalión_ , la obra de George Bernard Shaw de 1913 — que probablemente conoces mejor en su versión musical _My Fair Lady_ —, el profesor de fonética Henry Higgins hace una apuesta: que puede transformar a Eliza Doolittle, una vendedora de flores con acento cockney del East End londinense, en una dama de la alta sociedad, aceptada en cualquier salón. El contenido no cambia: misma persona, misma inteligencia, mismo vocabulario de base. Lo que cambia es el código de acceso. La pronunciación, el ritmo del habla, las pausas correctas, las referencias esperadas. Shaw lo llamaba fonética. Es isomorfismo funcional: la función social es la misma, el protocolo de entrada es diferente.
 
 El **dinámico** preserva cómo el sistema se autocorrige. Un termostato, una empresa gestionada por objetivos y un ecosistema natural funcionan bajo la misma lógica: actúan, reciben retroalimentación de lo que ocurrió y se ajustan. Entiendes uno y entiendes los tres.
 
@@ -125,17 +118,17 @@ El **profundo** es el más raro y el más poderoso. Preserva la lógica organiza
 
 Aquí vive el peligro. Dos cosas pueden parecer iguales por fuera y ser completamente distintas por dentro.
 
-"La empresa es como una familia." Suena verdad. Se rompe cuando hay que despedir a alguien. La familia es vínculo incondicional. La empresa es un contrato. No despides a tu hijo por desempeño insatisfactorio trimestral. Es una analogía emocional, no una estructura real.
+“La empresa es como una familia.” Suena verdad. Se rompe cuando hay que despedir a alguien. La familia es vínculo incondicional. La empresa es un contrato. No despides a tu hijo por desempeño insatisfactorio trimestral. Es una analogía emocional, no una estructura real.
 
-"El cerebro es como una computadora." Útil para explicar memoria y procesamiento. Se rompe bajo presión. Una computadora se traba y para. El cerebro se degrada poco a poco, se adapta, compensa. Una es centralizada, la otra masivamente paralela. Es metáfora útil, no isomorfismo completo.
+“El cerebro es como una computadora.” Útil para explicar memoria y procesamiento. Se rompe bajo presión. Una computadora se traba y para. El cerebro se degrada poco a poco, se adapta, compensa. Una es centralizada, la otra masivamente paralela. Es metáfora útil, no isomorfismo completo.
 
-"El Estado es como una empresa." Funciona en algunos aspectos de gestión. Se rompe en los fundamentos. Una empresa puede despedir gente. Un Estado no puede despedir a sus ciudadanos. Las métricas de ganancia no aplican a la estabilidad social. Es isomorfismo parcial, no completo.
+“El Estado es como una empresa.” Funciona en algunos aspectos de gestión. Se rompe en los fundamentos. Una empresa puede despedir gente. Un Estado no puede despedir a sus ciudadanos. Las métricas de ganancia no aplican a la estabilidad social. Es isomorfismo parcial, no completo.
 
 La diferencia entre una analogía que inspira y una estructura que funciona es esta: la que funciona sobrevive cuando la llevas al límite.
 
-Hay una película de 1986 que ilustra esto mejor que cualquier ejemplo académico. En _Crocodile Dundee_, Mick Dundee llega a Nueva York desde el interior de Australia. No conoce la ciudad, pero sabe mucho sobre supervivencia, lectura de entornos y evaluación de amenazas. En el baño de un hotel de lujo, encuentra dos artefactos de porcelana: uno es lo que conoce, el otro es un bidé. Su conclusión: "algún idiota puso dos sanitarios aquí." El objeto es nuevo, pero intenta encajarlo en el mapa que tiene. Error de isomorfismo: parece, pero no es.
+Hay una película de 1986 que ilustra esto mejor que cualquier ejemplo académico. En _Crocodile Dundee_ , Mick Dundee llega a Nueva York desde el interior de Australia. No conoce la ciudad, pero sabe mucho sobre supervivencia, lectura de entornos y evaluación de amenazas. En el baño de un hotel de lujo, encuentra dos artefactos de porcelana: uno es lo que conoce, el otro es un bidé. Su conclusión: “algún idiota puso dos sanitarios aquí.” El objeto es nuevo, pero intenta encajarlo en el mapa que tiene. Error de isomorfismo: parece, pero no es.
 
-En un asalto nocturno, dos hombres lo amenazan con un cuchillo pequeño. Dundee lo mira, mira el suyo, y dice con calma: "Eso no es un cuchillo." Saca una hoja del tamaño de un machete. "Eso es un cuchillo." Los asaltantes huyen. Aquí el isomorfismo funciona: una amenaza es una amenaza, y él lee la estructura de la situación mejor que los locales, porque no tiene los filtros culturales que ciegan a quienes están demasiado adentro.
+En un asalto nocturno, dos hombres lo amenazan con un cuchillo pequeño. Dundee lo mira, mira el suyo, y dice con calma: “Eso no es un cuchillo.” Saca una hoja del tamaño de un machete. “Eso es un cuchillo.” Los asaltantes huyen. Aquí el isomorfismo funciona: una amenaza es una amenaza, y él lee la estructura de la situación mejor que los locales, porque no tiene los filtros culturales que ciegan a quienes están demasiado adentro.
 
 Esto es lo que Montesquieu sabía en 1721 y lo que la comedia australiana mostró en 1986: quienes vienen de afuera, cuando observan bien, a veces ven lo que el de adentro ya no puede ver.
 
@@ -149,7 +142,7 @@ No estoy diciendo que aprendí a hacer esto bien. Estoy diciendo que aprendí a 
 
 ### **Una objeción que merece respuesta directa.**
 
-Quizás estés pensando: "Esto funciona para quien aprendió varios idiomas o vivió en otros países. Mi vida no fue así."
+Quizás estés pensando: “Esto funciona para quien aprendió varios idiomas o vivió en otros países. Mi vida no fue así.”
 
 Es una objeción justa. Y la respuesta es: tú también ya lo has hecho. Cada vez que aprendiste una tarea nueva en el trabajo y notaste que se parecía a algo que ya hacías. Cada vez que explicaste un proceso nuevo usando una comparación con algo que el otro ya conocía. Cada vez que cambiaste de sector o de función y no tardaste tanto en adaptarte como esperabas.
 
@@ -193,7 +186,7 @@ En algunas semanas, voy a comenzar a publicar semanalmente una serie que aplica 
 
 Pero antes de anunciar la serie, voy a hacer lo que cualquier argumento honesto exige: mostrar la prueba funcionando, no solo describirla. Una demostración concreta, con 21 conceptos técnicos que los programadores tardan meses en asimilar, presentados en una historia que cualquier persona puede reconocer.
 
-El sistema se llama Git. Fue creado por un finlandés enojado en un fin de semana de abril de 2005. Linus Torvalds — el mismo que creó el núcleo de Linux — acababa de perder la licencia de la herramienta que su equipo usaba, revocada por la empresa propietaria. En dos días escribió una alternativa desde cero. La llamó Git. En el mensaje que anunció el proyecto a la lista de correo de la comunidad, describió la herramienta con ironía: "el administrador de información del infierno."
+El sistema se llama Git. Fue creado por un finlandés enojado en un fin de semana de abril de 2005. Linus Torvalds — el mismo que creó el núcleo de Linux — acababa de perder la licencia de la herramienta que su equipo usaba, revocada por la empresa propietaria. En dos días escribió una alternativa desde cero. La llamó Git. En el mensaje que anunció el proyecto a la lista de correo de la comunidad, describió la herramienta con ironía: “el administrador de información del infierno.”
 
 Veintiún años después, Git está en casi todo lugar donde existe software. Más del 90% de los proyectos de software en el mundo lo usan. Y la gran mayoría de las personas nunca ha oído hablar de él.
 
@@ -217,7 +210,7 @@ Mariana no toca la foto original. Hace una copia en su propio dispositivo para t
 
 Antes de comenzar los ajustes, Mariana recuerda que configuró el editor para ejecutar dos verificaciones automáticas cada vez que guarda cualquier cambio: una revisa que el archivo no se haya corrompido, la otra garantiza que la resolución está dentro del estándar acordado. Estos son los **GANCHOS** (HOOKS): acciones automáticas de verificación que se activan en momentos específicos del flujo, sin necesitar recordar ejecutarlas manualmente. No editan la foto. Guardan la entrada.
 
-En la copia, Mariana hace los ajustes uno a uno y registra cada uno por separado con una descripción de lo que hizo y por qué. Elimina las personas. Limpia la arena. Ajusta los colores del mar. Mejora el brillo. Elimina las nubes. Cada uno de esos registros es una **CONFIRMACIÓN** (COMMIT): un cambio documentado, con autoría e intención. Una confirmación no es solo "guardar." Es guardar con firma y explicación.
+En la copia, Mariana hace los ajustes uno a uno y registra cada uno por separado con una descripción de lo que hizo y por qué. Elimina las personas. Limpia la arena. Ajusta los colores del mar. Mejora el brillo. Elimina las nubes. Cada uno de esos registros es una **CONFIRMACIÓN** (COMMIT): un cambio documentado, con autoría e intención. Una confirmación no es solo “guardar.” Es guardar con firma y explicación.
 
 En medio del proceso, Mariana prueba un filtro en blanco y negro. Queda interesante, pero no es para esta versión. Lo guarda en el bolsillo por ahora — en una carpeta temporal, fuera del trabajo principal. En Git, esto es el **GUARDADO RÁPIDO** (STASH): un borrador guardado apresuradamente para no ensuciar el historial actual. Importante: el guardado rápido es volátil. Si lo olvidas ahí, desaparece.
 
@@ -227,7 +220,7 @@ María mira con atención — eso es la **REVISIÓN** (REVIEW). Le gusta todo, e
 
 En ese momento, Julia — la prima de María, sentada al otro lado de la mesa — también había hecho un ajuste en el brillo de la misma zona del cielo, sin avisarle a nadie. Cuando Mariana y Julia intentaron combinar sus trabajos, el sistema se bloqueó: ¿qué versión del cielo queda? ¿La de Mariana o la de Julia? María tiene que decidir. Esto es un **CONFLICTO DE FUSIÓN** (MERGE CONFLICT): dos personas trabajaron en el mismo trozo al mismo tiempo, y el sistema no puede elegir por sí solo. El conflicto no es un error. Es el sistema funcionando: se niega a fusionar cosas contraditórias sin una decisión humana explícita.
 
-María aprueba el resultado final (**APROBACIÓN** / APPROVAL). Antes de oficializarlo, María marca la foto en el álbum como "playa junio 2025" — una etiqueta que identifica esa versión específica para encontrarla después. Esto es una **ETIQUETA** (TAG): un hito nombrado en un punto específico de la línea de tiempo.
+María aprueba el resultado final (**APROBACIÓN** / APPROVAL). Antes de oficializarlo, María marca la foto en el álbum como “playa junio 2025” — una etiqueta que identifica esa versión específica para encontrarla después. Esto es una **ETIQUETA** (TAG): un hito nombrado en un punto específico de la línea de tiempo.
 
 La foto aprobada entra como la nueva versión oficial: la **FUSIÓN** (MERGE). La copia trabajada se fusiona de vuelta al estado oficial, con registro de quién aprobó y cuándo. María entonces manda la foto por WhatsApp a su mamá — la **PUBLICACIÓN** (DEPLOY): la difusión, el envío al mundo.
 
@@ -235,7 +228,7 @@ Juan y María guardan la carpeta completa de fotos aprobadas en sus propios celu
 
 La mamá de María recibe la foto y la encuentra bonita, pero dice que quedó demasiado artificial. María entonces vuelve al historial y marca la versión anterior como oficial, sin filtros ni ajustes. Esto es el **RETROCESO** (ROLLBACK): restaurar un estado anterior completo como versión oficial. No es un comando específico en Git — es un concepto. Lo importante es que el historial sigue intacto. Nada desaparece. Solo cambia lo que está marcado como oficial ahora. A diferencia de la reversión, que deshizo un cambio específico creando un nuevo registro, el retroceso declara que un punto anterior es el estado actual. Más drástico. Igualmente rastreable.
 
-Poco después, Mariana le manda un mensaje a María: "¿Querés que edite algo más?" Esto es el **RASTREO** (FETCH): verificar si hay algo nuevo disponible, sin descargar ni aplicar nada todavía. María responde que sí, y Mariana le envía las sugerencias. María descarga e incorpora todo en una sola acción — eso es el **JALADO** (PULL): buscar y aplicar en un solo paso. La diferencia entre los dos es sutil pero importante: el rastreo lee el menú, el jalado pide el plato y lo come.
+Poco después, Mariana le manda un mensaje a María: “¿Querés que edite algo más?” Esto es el **RASTREO** (FETCH): verificar si hay algo nuevo disponible, sin descargar ni aplicar nada todavía. María responde que sí, y Mariana le envía las sugerencias. María descarga e incorpora todo en una sola acción — eso es el **JALADO** (PULL): buscar y aplicar en un solo paso. La diferencia entre los dos es sutil pero importante: el rastreo lee el menú, el jalado pide el plato y lo come.
 
 Entonces María nota algo que nadie había visto: una mancha en la pierna que quedó en la foto ya enviada a su mamá. Mariana la elimina de inmediato, con un flujo reducido pero aún rastreable — una rama ágil, corrección, aprobación sumaria de María, fusión. Esto es el **PARCHE URGENTE** (HOTFIX): una corrección urgente hecha después de la publicación. El proceso es menor, no inexistente.
 
@@ -243,31 +236,7 @@ Por último, Julia toma la foto, crea una copia completa bajo su propia cuenta y
 
 ### **10\. Los 21 conceptos, de un lado al otro:**
 
-| Término | En la foto | En la gobernanza |
-| ----- | ----- | ----- |
-| **PRINCIPAL (MAIN)** | versión oficial, destino de lo que fue validado | versión oficial del sistema |
-| **INCIDENCIA (ISSUE)** | problema identificado por María | cuestión a resolver |
-| **ASIGNACIÓN (ASSIGN)** | María designa a Mariana | designa a un responsable |
-| **CONFIGURACIÓN (CONFIG)** | Mariana registra identidad y preferencias en el editor | configura entorno e identidad |
-| **RAMA (BRANCH)** | copia separada en el dispositivo de Mariana | borrador local sin tocar el original remoto |
-| **GANCHOS (HOOKS)** | verificaciones automáticas al guardar | acciones automáticas de verificación en el flujo |
-| **CONFIRMACIÓN (COMMIT)** | cada ajuste de Mariana registrado con autoría y motivo | cambio descrito, firmado y guardado |
-| **GUARDADO RÁPIDO (STASH)** | filtro que Mariana guarda en el bolsillo, temporal y volátil | borrador volátil fuera del historial actual |
-| **SOLICITUD DE INCORPORACIÓN (PULL REQUEST)** | Mariana envía formalmente para que María revise | propuesta formal de cambio |
-| **REVISIÓN (REVIEW)** | María evalúa los ajustes de Mariana | revisión por quien solicitó |
-| **REVERSIÓN (REVERT)** | Mariana deshace solo el filtro del mar, nuevo registro creado | deshace un cambio específico preservando el historial |
-| **CONFLICTO DE FUSIÓN (MERGE CONFLICT)** | Mariana y Julia trabajaron en el mismo trozo, María decide | dos cambios contradictorios, decisión humana requerida |
-| **APROBACIÓN (APPROVAL)** | María aprueba la foto | el guardián autoriza la entrada al PRINCIPAL |
-| **ETIQUETA (TAG)** | María etiqueta "playa junio 2025" en el álbum | hito nombrado en una versión específica |
-| **FUSIÓN (MERGE)** | la foto aprobada por María se vuelve oficial | la versión aprobada entra al PRINCIPAL |
-| **CLONADO (CLONE)** | Juan y María guardan cada uno en su propio celular | copia local de la versión oficial |
-| **RETROCESO (ROLLBACK)** | María marca la versión anterior como oficial, historial intacto | restaura el estado anterior como versión actual |
-| **RASTREO (FETCH)** | Mariana avisa a María que hay novedad, nada descargado todavía | verifica novedades sin aplicar |
-| **JALADO (PULL)** | María descarga e incorpora en una acción | busca y aplica novedades |
-| **PARCHE URGENTE (HOTFIX)** | Mariana elimina la mancha en la pierna, flujo reducido pero rastreable | corrección urgente pospublicación con registro |
-| **BIFURCACIÓN (FORK)** | Julia crea su propio álbum independiente con el historial completo | copia completa bajo nueva gobernanza |
-
----
+[![](https://substackcdn.com/image/fetch/$s_!xgSl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8bedd0a-0806-478a-a3db-d30b34e5207a_1792x695.png)](https://substackcdn.com/image/fetch/$s_!xgSl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8bedd0a-0806-478a-a3db-d30b34e5207a_1792x695.png)
 
 **Nota sobre la publicación (Deploy):** La publicación aparece en la historia porque ocurre de verdad — María le manda la foto a su mamá. Pero pertenece a la ejecución, no al versionamiento. Por eso no aparece en la tabla de correlación de la serie, que mapea el isomorfismo entre Git y gobernanza. El concepto que cierra los 21 es el conflicto de fusión, descrito en el Paso 10 de los 21 Pasos.
 
@@ -289,7 +258,7 @@ Una nota final: Git no gobierna a nadie. Registra lo que sucede. Quienes gobiern
 
 Antes de los artículos de la serie, hay un texto anterior que hace una pregunta incómoda: ¿por qué las democracias mueren por dentro, sin que nadie se dé cuenta, y qué tiene que ver eso con la forma en que cualquier grupo humano toma decisiones colectivas? Esa pregunta no tiene respuesta fácil. Pero tiene una pista que viene de la ingeniería de software, de todos los lugares improbables.
 
-La serie se llama _"Gobernanza como Versionamiento."_ El mapa viene primero. Por ahí empezamos. El territorio comienza justo después.
+La serie se llama _“Gobernanza como Versionamiento.”_ El mapa viene primero. Por ahí empezamos. El territorio comienza justo después.
 
 * * *
 
@@ -315,15 +284,17 @@ La simplicidad es el último grado de la sofisticación.
 
 La serie está disponible aquí:
 
-  * **LinkedIn**: <https://www.linkedin.com/pulse/artigo-alfa-voc%C3%AA-nunca-parte-do-zero-gustavo-jorge-alessandri-sk4yf>
+  * **LinkedIn** : <https://www.linkedin.com/pulse/art%25C3%25ADculo-alfa-nunca-partes-de-cero-gustavo-jorge-alessandri-klq4f/>
 
   * **Codeberg:** <https://codeberg.org/openarchy/gitgov>
 
   * **GitHub:** <https://github.com/openarchy/gitgov>
 
-  * **Medium:** <https://medium.com/@Polimata/artigo-alfa-voc%C3%AA-nunca-parte-do-zero-53b0252d2705>
+  * **Medium:**
 
-  * **Substack**: <https://open.substack.com/pub/openarchy/p/artigo-alfa-voce-nunca-parte-do-zero>
+  * **Substack** : <https://openarchy.substack.com/p/articulo-alfa-nunca-partes-de-cero>
+
+
 
 
 Es código abierto. El contenido está licenciado bajo CC BY-SA 4.0: puedes leer, compartir, traducir, adaptar y mejorar — siempre que mantengas la atribución y distribuyas los derivados bajo la misma licencia.
@@ -342,12 +313,15 @@ Si encuentras un error, tienes una idea o quieres proponer una mejora, basta con
 
   4. FAIMAN, Peter (dir.). _Crocodile Dundee_. Australia/EE. UU.: Paramount Pictures, 1986. Película.
 
-  5. MONTESQUIEU, Charles-Louis de Secondat, Barón de. _Cartas persas_. Traducción de José Marchena. Madrid: Cátedra, 1997. (Publicación original: _Lettres persanes_, 1721.)
+  5. MONTESQUIEU, Charles-Louis de Secondat, Barón de. _Cartas persas_. Traducción de José Marchena. Madrid: Cátedra, 1997. (Publicación original: _Lettres persanes_ , 1721.)
 
-  6. SHAW, George Bernard. _Pigmalión_. Madrid: Cátedra, 2003. (Estreno teatral: 1913. Adaptación musical: _My Fair Lady_, letra de Alan Jay Lerner, música de Frederick Loewe, 1956.)
+  6. SHAW, George Bernard. _Pigmalión_. Madrid: Cátedra, 2003. (Estreno teatral: 1913. Adaptación musical: _My Fair Lady_ , letra de Alan Jay Lerner, música de Frederick Loewe, 1956.)
 
   7. GLEICK, James. _La información: una historia, una teoría, un diluvio_. Traducción de Pedro Cifuentes. Barcelona: Crítica, 2012.
 
-  8. TORVALDS, Linus. Git: the information manager from hell. Mensaje publicado en la lista de discusión **git@vger.kernel.org**, 7 abr. 2005. Disponible en: **<https://lkml.org/lkml/2005/4/6/121>**. Acceso: 1 mar. 2026.
+  8. TORVALDS, Linus. Git: the information manager from hell. Mensaje publicado en la lista de discusión **[git@vger.kernel.org](mailto:git@vger.kernel.org)** , 7 abr. 2005. Disponible en: **<https://lkml.org/lkml/2005/4/6/121>**. Acceso: 1 mar. 2026.
 
   9. CHACON, Scott; STRAUB, Ben. _Pro Git_. 2.ª ed. Nueva York: Apress, 2014. Disponible en: **<https://git-scm.com/book/es/v2>**. Acceso: 1 mar. 2026.
+
+
+
