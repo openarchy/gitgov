@@ -126,7 +126,7 @@ O problema nunca é só quem manda. É a arquitetura que permite mandar sem ser 
 
 Sistema aberto que não se vigia acaba operando como sistema fechado com portas abertas. A porta existe, mas o corredor de saída tem 47 formulários.
 
-Não governam os mais sábios. Governam os mais revisáveis. Mas revisão que ninguém lê não é revisão. É carimbo.
+Não governam melhor os mais sábios. Governam melhor os mais revisáveis. Mas revisão que ninguém lê não é revisão. É carimbo.
 
 * * *
 
